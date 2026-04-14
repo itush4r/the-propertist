@@ -1,7 +1,7 @@
 'use client';
 
 import Image from 'next/image';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { PropertyImage } from '@/types/property';
 
 interface ImageGalleryProps {
@@ -12,6 +12,7 @@ interface ImageGalleryProps {
 export default function ImageGallery({ images, title }: ImageGalleryProps) {
   const [activeIndex, setActiveIndex] = useState(0);
   const [brokenImages, setBrokenImages] = useState<Set<number>>(new Set());
+  const [autoScroll, setAutoScroll] = useState(true);
 
   const handleImageError = (index: number) => {
     setBrokenImages(prev => {
@@ -22,12 +23,25 @@ export default function ImageGallery({ images, title }: ImageGalleryProps) {
   };
 
   const goToPrevious = () => {
+    setAutoScroll(false);
     setActiveIndex((prev) => (prev === 0 ? images.length - 1 : prev - 1));
   };
 
   const goToNext = () => {
+    setAutoScroll(false);
     setActiveIndex((prev) => (prev === images.length - 1 ? 0 : prev + 1));
   };
+
+  // Auto-scroll effect
+  useEffect(() => {
+    if (!autoScroll || images.length <= 1) return;
+
+    const interval = setInterval(() => {
+      setActiveIndex((prev) => (prev === images.length - 1 ? 0 : prev + 1));
+    }, 5000); // Change image every 5 seconds
+
+    return () => clearInterval(interval);
+  }, [autoScroll, images.length]);
 
   if (!images || images.length === 0) return null;
 
@@ -50,8 +64,9 @@ export default function ImageGallery({ images, title }: ImageGalleryProps) {
             src={images[activeIndex].url}
             alt={images[activeIndex].caption || title}
             fill
-            className="object-cover"
+            className="object-contain"
             priority
+            quality={95}
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 85vw"
             onError={() => handleImageError(activeIndex)}
           />

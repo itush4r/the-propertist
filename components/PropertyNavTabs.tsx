@@ -14,27 +14,31 @@ export default function PropertyNavTabs({ hasAmenities, hasFacilities, hasPolici
   useEffect(() => {
     const handleScroll = () => {
       const sections = ['overview', 'amenities', 'policies'];
-      let closestSection = 'overview';
-      let closestDistance = Infinity;
+      let activeSection = 'overview';
+      const triggerHeight = 300; // Trigger point from top
 
       for (const section of sections) {
         const element = document.getElementById(section);
         if (element) {
           const rect = element.getBoundingClientRect();
-          const distance = Math.abs(rect.top - 200);
 
-          // Find the section closest to the 200px mark from top
-          if (distance < closestDistance) {
-            closestDistance = distance;
-            closestSection = section;
+          // Highlight if section is near the trigger point (300px from top)
+          // OR if we're at the very bottom of the page and this is the policies section
+          if (rect.top <= triggerHeight && rect.bottom >= 0) {
+            activeSection = section;
+          }
+
+          // Special case: if policies section is visible, prioritize it when near bottom
+          if (section === 'policies' && rect.top <= window.innerHeight * 0.6) {
+            activeSection = 'policies';
           }
         }
       }
 
-      setActiveSection(closestSection);
+      setActiveSection(activeSection);
     };
 
-    window.addEventListener('scroll', handleScroll);
+    window.addEventListener('scroll', handleScroll, { passive: true });
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
@@ -43,9 +47,13 @@ export default function PropertyNavTabs({ hasAmenities, hasFacilities, hasPolici
     const element = document.getElementById(sectionId);
 
     if (element) {
-      // Scroll to element with smooth behavior, accounting for header height
-      const headerHeight = 57; // height of sticky header
-      const elementPosition = element.getBoundingClientRect().top + window.scrollY - headerHeight - 20;
+      // Scroll to element with smooth behavior, accounting for header + nav tabs
+      const pageHeader = 57; // height of sticky page header
+      const navTabs = 57; // height of sticky nav tabs
+      const extraPadding = 30; // extra space for visibility
+      const totalOffset = pageHeader + navTabs + extraPadding;
+
+      const elementPosition = element.getBoundingClientRect().top + window.scrollY - totalOffset;
 
       window.scrollTo({
         top: elementPosition,
