@@ -113,11 +113,11 @@ function PropertyCardComponent({ property, priority = false }: PropertyCardProps
               {/* Carousel */}
               <div
                 ref={scrollContainerRef}
-                className="flex h-full overflow-x-auto scrollbar-hide"
+                className="flex h-full overflow-x-auto overflow-y-hidden scrollbar-hide"
                 onScroll={handleScroll}
               >
                 {images.map((img, idx) => (
-                  <div key={idx} className="relative min-w-full h-full snap-start flex-shrink-0 bg-stone-300">
+                  <div key={idx} className="relative min-w-full h-full snap-start flex-shrink-0 bg-stone-300 overflow-hidden">
                     {brokenImages.has(idx) ? (
                       // Error image fallback
                       <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-stone-300 to-stone-400">
