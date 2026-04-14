@@ -1,0 +1,3187 @@
+[
+  {
+    "id": "1",
+    "title": "Luxury 1 BHK Sea-View Apartment",
+    "price": 4500000,
+    "location": "Bandra West, Mumbai",
+    "bhk": 1,
+    "type": "buy",
+    "area": 650,
+    "description": "Stunning sea-facing 1 BHK apartment in Bandra West with modern amenities.",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Parking",
+      "Security",
+      "Concierge"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&q=85",
+        "caption": "Living Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=85",
+        "caption": "Master Bedroom"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&q=85",
+        "caption": "Modern Kitchen"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&q=85",
+        "caption": "Outdoor Space"
+      }
+    ],
+    "descriptions": [
+      "Experience luxury living in this sea-facing 1 BHK apartment located in the heart of Bandra West, Mumbai. This premium property offers unobstructed Arabian Sea views from the living room and bedroom, making it a true gem for those seeking coastal elegance.",
+      "The apartment features a fully equipped modern kitchen, spacious living area with floor-to-ceiling windows, and a luxury marble bathroom. High-quality Italian fittings, air conditioning, and smart home integration provide ultimate comfort and convenience.",
+      "Residents enjoy exclusive access to world-class amenities including a temperature-controlled swimming pool, state-of-the-art gym, dedicated parking, 24/7 security, and personalized concierge service. The building is strategically located near shopping malls, restaurants, and entertainment hubs."
+    ],
+    "topFacilities": [
+      {
+        "name": "Swimming Pool",
+        "icon": "pool"
+      },
+      {
+        "name": "Fitness Center",
+        "icon": "gym"
+      },
+      {
+        "name": "Covered Parking",
+        "icon": "parking"
+      },
+      {
+        "name": "24/7 Security",
+        "icon": "security"
+      },
+      {
+        "name": "High-Speed WiFi",
+        "icon": "wifi"
+      }
+    ],
+    "facilityGroups": [
+      {
+        "name": "In-Building Amenities",
+        "facility_items": [
+          "Olympic-Size Swimming Pool",
+          "Multi-Gym with Cardio Equipment",
+          "Yoga & Pilates Studio",
+          "Sauna and Steam Room",
+          "Temperature Control System"
+        ]
+      },
+      {
+        "name": "Services & Support",
+        "facility_items": [
+          "24/7 Security Guard",
+          "CCTV Surveillance",
+          "Dedicated Concierge",
+          "Daily Housekeeping Service",
+          "Valet Parking Available"
+        ]
+      }
+    ],
+    "contact": {
+      "phone": [
+        "+91-22-6789-0123",
+        "+91-98765-43210"
+      ],
+      "email": [
+        "leasing@bandrawesthomes.com",
+        "info@bandrawesthomes.com"
+      ],
+      "website": "https://bandrawesthomes.com"
+    },
+    "policies": [
+      {
+        "type": "Payment Terms",
+        "text": [
+          "30% advance payment required",
+          "70% balance on possession",
+          "Flexible EMI options available",
+          "Legal documentation by registered lawyer"
+        ]
+      },
+      {
+        "type": "Cancellation Policy",
+        "text": [
+          "15 days cooling-off period",
+          "100% refund of advance if cancelled before handover",
+          "Processing fees apply after cooling-off period"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Modern 1 BHK Studio Near IT Park",
+    "price": 22000,
+    "location": "Whitefield, Bangalore",
+    "bhk": 1,
+    "type": "rent",
+    "area": 560,
+    "description": "Fully furnished 1 BHK studio ideal for professionals near IT companies.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "WiFi",
+      "Furnished",
+      "Parking",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=85",
+        "caption": "Sea View"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1494526585095-c894fdbb93d2?w=1200&q=85",
+        "caption": "City Lights"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1200&q=85",
+        "caption": "Terrace View"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584394838336-abadf3c96923?w=1200&q=85",
+        "caption": "Swimming Pool"
+      }
+    ],
+    "descriptions": [
+      "Ideal for young professionals working in Whitefield's IT parks, this modern 1 BHK studio apartment combines functionality with style. Fully furnished with premium furniture and fittings, it's move-in ready.",
+      "The studio features a well-designed bedroom, living area that doubles as a home office space, and a compact kitchenette equipped with modern appliances. High-speed internet connectivity ensures seamless work-from-home experience.",
+      "The property is located in a secure gated community with ample parking facilities, 24/7 security surveillance, and a well-maintained common area. Close proximity to major IT parks (Infosys, TCS, Wipro) makes commuting hassle-free."
+    ],
+    "topFacilities": [
+      {
+        "name": "WiFi 200 Mbps",
+        "icon": "wifi"
+      },
+      {
+        "name": "Furnished Unit",
+        "icon": "furnished"
+      },
+      {
+        "name": "Parking",
+        "icon": "parking"
+      },
+      {
+        "name": "Security",
+        "icon": "security"
+      },
+      {
+        "name": "Lift Access",
+        "icon": "lift"
+      }
+    ],
+    "facilityGroups": [
+      {
+        "name": "Interior Features",
+        "facility_items": [
+          "Premium Wooden Flooring",
+          "Wall-Mounted AC",
+          "Modular Kitchen",
+          "Modern Bathroom Fixtures",
+          "Smart Lighting System"
+        ]
+      },
+      {
+        "name": "Complex Facilities",
+        "facility_items": [
+          "Video Intercom System",
+          "CCTV Monitoring",
+          "24/7 Security Personnel",
+          "Guest WiFi Access",
+          "Housekeeping Service (Paid)"
+        ]
+      }
+    ],
+    "contact": {
+      "phone": [
+        "+91-80-2345-6789",
+        "+91-98765-54321"
+      ],
+      "email": [
+        "leasing@whitefieldstudio.com",
+        "inquiry@whitefieldstudio.com"
+      ],
+      "website": "https://whitefieldstudio.com"
+    },
+    "policies": [
+      {
+        "type": "Lease Terms",
+        "text": [
+          "Minimum 1 year lease agreement",
+          "3 months rent as security deposit",
+          "Rent review after every 2 years",
+          "Pet policy: No pets allowed"
+        ]
+      },
+      {
+        "type": "Maintenance & Utilities",
+        "text": [
+          "Water & electricity bills included in rent",
+          "Monthly maintenance charges: ₹500",
+          "Internet included (200 Mbps fiber)",
+          "Housekeeping: Separate paid service"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Spacious 4 BHK Family Villa",
+    "price": 42000000,
+    "location": "DLF Phase 2, Gurgaon",
+    "bhk": 4,
+    "type": "buy",
+    "area": 3800,
+    "description": "Independent villa in gated community with private garden and servant quarters.",
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+    "amenities": [
+      "Garden",
+      "Pool",
+      "Parking",
+      "Servant Quarter",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1200&q=85",
+        "caption": "Grand Entrance"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=1200&q=85",
+        "caption": "Luxury Interior"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&q=85",
+        "caption": "Spacious Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&q=85",
+        "caption": "Contemporary Design"
+      }
+    ],
+    "descriptions": [
+      "This magnificent 4 BHK independent villa in DLF Phase 2 spans 3,800 sq.ft and represents the pinnacle of luxury residential living. Designed for families who value space, privacy, and premium amenities, this villa offers an unparalleled lifestyle experience.",
+      "The villa features 4 spacious bedrooms with ensuite bathrooms, a sprawling living area with floor-to-ceiling windows, a chef's kitchen with premium appliances, and a dedicated home theater room. The master suite includes a walk-in closet and a luxurious bathroom with a soaking tub and rain shower.",
+      "The property sits on a lush private garden with a temperature-controlled swimming pool, outdoor entertainment area, and landscaped lawns. Additional features include a separate servant quarter, multiple covered parking spaces, and a advanced security system with CCTV surveillance."
+    ],
+    "topFacilities": [
+      {
+        "name": "Private Garden",
+        "icon": "garden"
+      },
+      {
+        "name": "Swimming Pool",
+        "icon": "pool"
+      },
+      {
+        "name": "Servant Quarter",
+        "icon": "concierge"
+      },
+      {
+        "name": "24/7 Security",
+        "icon": "security"
+      },
+      {
+        "name": "Air Conditioning",
+        "icon": "ac"
+      }
+    ],
+    "facilityGroups": [
+      {
+        "name": "Living Spaces",
+        "facility_items": [
+          "Grand Foyer & Living Area",
+          "Formal Dining Room",
+          "Home Theater",
+          "Study/Library",
+          "Game Room"
+        ]
+      },
+      {
+        "name": "Outdoor & Recreation",
+        "facility_items": [
+          "Private Swimming Pool",
+          "Manicured Garden",
+          "Outdoor Kitchen & Bar",
+          "Tennis Court (Shared)",
+          "Jogging Track (Community)"
+        ]
+      },
+      {
+        "name": "Support & Services",
+        "facility_items": [
+          "Servant Quarter with Bathroom",
+          "Pantry & Laundry Room",
+          "Generator Backup",
+          "Water Purification System",
+          "Smart Home Integration"
+        ]
+      }
+    ],
+    "contact": {
+      "phone": [
+        "+91-124-4567-8901",
+        "+91-98765-67890"
+      ],
+      "email": [
+        "sales@dlf-phase2-villas.com",
+        "inquiry@dlf-phase2-villas.com"
+      ],
+      "website": "https://dlfphase2villas.com"
+    },
+    "policies": [
+      {
+        "type": "Purchase Terms",
+        "text": [
+          "20% advance on signing",
+          "40% on completion of construction",
+          "40% on possession",
+          "Flexible 50/50 payment options available"
+        ]
+      },
+      {
+        "type": "Possession & Handover",
+        "text": [
+          "Possession within 18 months of agreement",
+          "White goods & AC included",
+          "Maintenance for 5 years",
+          "Extended warranty on structural components"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Heritage-Style 2 BHK",
+    "price": 35000,
+    "location": "Alipore, Kolkata",
+    "bhk": 2,
+    "type": "rent",
+    "area": 980,
+    "description": "Charming 2 BHK in heritage building with high ceilings and wooden floors.",
+    "image": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Security",
+      "Power Backup"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=1200&q=85",
+        "caption": "Home Office"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1500595046891-da9419e48b4f?w=1200&q=85",
+        "caption": "Dining Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=85",
+        "caption": "Pool Deck"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200&q=85",
+        "caption": "Garden"
+      }
+    ],
+    "descriptions": [
+      "Step back in time in this charming 2 BHK heritage apartment located in the cultural heart of Alipore, Kolkata. Housed in a meticulously preserved heritage building, this property exudes old-world charm while offering modern comforts.",
+      "The apartment features original wooden flooring, high ceilings that add to the sense of spaciousness, and large arched windows that let in plenty of natural light. Detailed woodwork, intricate railings, and period-appropriate fittings maintain the historical aesthetic.",
+      "Located in the upscale Alipore neighborhood known for its cultural significance and literary heritage, the property provides easy access to parks, museums, bookstores, and fine dining establishments. Despite its heritage charm, the building is equipped with modern security systems and regular maintenance."
+    ],
+    "topFacilities": [
+      {
+        "name": "Parking Available",
+        "icon": "parking"
+      },
+      {
+        "name": "24/7 Security",
+        "icon": "security"
+      },
+      {
+        "name": "Power Backup",
+        "icon": "ac"
+      },
+      {
+        "name": "Lift Access",
+        "icon": "lift"
+      },
+      {
+        "name": "Water Supply",
+        "icon": "wifi"
+      }
+    ],
+    "facilityGroups": [
+      {
+        "name": "Apartment Features",
+        "facility_items": [
+          "High Ceilings (12 ft)",
+          "Original Wooden Flooring",
+          "Large Arched Windows",
+          "Decorative Wooden Railings",
+          "Heritage Tiles & Fixtures"
+        ]
+      },
+      {
+        "name": "Building Amenities",
+        "facility_items": [
+          "Dedicated Parking Slot",
+          "24-Hour Security Guard",
+          "Video Intercom System",
+          "Generator Backup Power",
+          "Maintenance Staff"
+        ]
+      }
+    ],
+    "contact": {
+      "phone": [
+        "+91-33-2345-6789",
+        "+91-98765-23456"
+      ],
+      "email": [
+        "leasing@alipore-heritage.com",
+        "info@alipore-heritage.com"
+      ],
+      "website": "https://aliporeheritage.com"
+    },
+    "policies": [
+      {
+        "type": "Rental Agreement",
+        "text": [
+          "1 year lease mandatory",
+          "2 months deposit + 1 month advance",
+          "Annual rent increase: 5-10%",
+          "No commercial activities allowed"
+        ]
+      },
+      {
+        "type": "Maintenance & Services",
+        "text": [
+          "Water supply: Daily 24/7",
+          "Electricity meter in tenant's name",
+          "Structural maintenance by landlord",
+          "Repair & painting by tenant"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Penthouse 4 BHK with Terrace",
+    "price": 95000000,
+    "location": "Juhu, Mumbai",
+    "bhk": 4,
+    "type": "buy",
+    "area": 5200,
+    "description": "Ultra-luxury penthouse with private terrace, plunge pool and 360° views.",
+    "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800&q=80",
+    "amenities": [
+      "Private Terrace",
+      "Plunge Pool",
+      "Smart Home",
+      "Private Elevator",
+      "Gym"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1455849318743-68233fe4934d?w=1200&q=85",
+        "caption": "Staircase"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1423666639041-f56000c27a7a?w=1200&q=85",
+        "caption": "Open Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1604009506606-fd91d7ae6562?w=1200&q=85",
+        "caption": "Minimalist Style"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1540932626367-4f46c65c4e20?w=1200&q=85",
+        "caption": "Bedroom Suite"
+      }
+    ],
+    "descriptions": [
+      "This ultra-luxury 4 BHK penthouse in Juhu, Mumbai's most coveted address, represents the epitome of modern luxury living. Occupying 5,200 sq.ft. with a sprawling private terrace, this sky-high sanctuary offers unparalleled comfort and exclusivity.",
+      "The penthouse features a smart home automation system controlling lighting, temperature, security, and entertainment with voice commands. Four spacious bedrooms with ensuite bathrooms, a media lounge, wine cellar, and a state-of-the-art kitchen designed by renowned architects showcase premium craftsmanship.",
+      "The crowning jewel is the expansive private terrace featuring a heated infinity pool overlooking the Arabian Sea, sophisticated lounge areas, and a rooftop garden. A private elevator directly accesses the penthouse from the ground floor, ensuring ultimate privacy and convenience for the most discerning residents."
+    ],
+    "topFacilities": [
+      {
+        "name": "Private Terrace",
+        "icon": "garden"
+      },
+      {
+        "name": "Infinity Pool",
+        "icon": "pool"
+      },
+      {
+        "name": "Smart Home",
+        "icon": "wifi"
+      },
+      {
+        "name": "Private Elevator",
+        "icon": "lift"
+      },
+      {
+        "name": "Gym & Spa",
+        "icon": "gym"
+      }
+    ],
+    "facilityGroups": [
+      {
+        "name": "Living Spaces",
+        "facility_items": [
+          "Grand Living Room with Sea View",
+          "Formal & Casual Dining Areas",
+          "Home Cinema & Theater",
+          "Wine Cellar with Temperature Control",
+          "Spa & Sauna Suite"
+        ]
+      },
+      {
+        "name": "Outdoor Living",
+        "facility_items": [
+          "Private Heated Infinity Pool",
+          "Rooftop Garden with Landscaping",
+          "Outdoor Lounge & Bar Area",
+          "360° Sea & City Views",
+          "BBQ & Entertainment Zone"
+        ]
+      },
+      {
+        "name": "Technology & Security",
+        "facility_items": [
+          "Full Smart Home Automation",
+          "Advanced CCTV System",
+          "Biometric Access Control",
+          "Private Emergency Lift",
+          "Satellite & Streaming System"
+        ]
+      }
+    ],
+    "contact": {
+      "phone": [
+        "+91-22-9876-5432",
+        "+91-98765-09876"
+      ],
+      "email": [
+        "luxurysales@juhupenthouses.com",
+        "concierge@juhupenthouses.com"
+      ],
+      "website": "https://juhupenthouses.com"
+    },
+    "policies": [
+      {
+        "type": "Ultra-Luxury Terms",
+        "text": [
+          "50% advance non-refundable deposit",
+          "50% balance on possession",
+          "Guaranteed buyback clause (95% of sale price)",
+          "Lifetime maintenance concierge service"
+        ]
+      },
+      {
+        "type": "Privacy & Exclusivity",
+        "text": [
+          "NDA required for all viewings",
+          "Exclusive furnishing by renowned designers",
+          "Private landscaping & maintenance team",
+          "24/7 private security & concierge"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Cozy 1 BHK near Metro",
+    "price": 16500,
+    "location": "Dwarka, New Delhi",
+    "bhk": 1,
+    "type": "rent",
+    "area": 480,
+    "description": "Well-maintained 1 BHK near Dwarka metro with semi-furnished interior.",
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+    "amenities": [
+      "AC",
+      "Wardrobe",
+      "Security",
+      "Lift"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1631049307038-da8ec36b6ce0?w=1200&q=85",
+        "caption": "Sleeping Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=85",
+        "caption": "Cozy Bedroom"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1505693314967-38904e4c2b11?w=1200&q=85",
+        "caption": "Bed Design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=1200&q=85",
+        "caption": "Chef's Kitchen"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Premium 3 BHK in Gated Society",
+    "price": 12500000,
+    "location": "Kondapur, Hyderabad",
+    "bhk": 3,
+    "type": "buy",
+    "area": 1650,
+    "description": "Ready-to-move 3 BHK in premium gated society with clubhouse and sports.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Clubhouse",
+      "Pool",
+      "Tennis Court",
+      "Parking",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1585518419759-29e0b60e67c4?w=1200&q=85",
+        "caption": "Dining Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1576091160399-5dee09e8e46e?w=1200&q=85",
+        "caption": "Pool Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1585128959052-087fccdba117?w=1200&q=85",
+        "caption": "Backyard"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&q=85",
+        "caption": "Poolside"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Lake-Facing 2 BHK Apartment",
+    "price": 48000,
+    "location": "Powai, Mumbai",
+    "bhk": 2,
+    "type": "rent",
+    "area": 1100,
+    "description": "Stunning lake-facing apartment on high floor with premium amenities.",
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80",
+    "amenities": [
+      "Furnished",
+      "Gym",
+      "Pool",
+      "Parking",
+      "Jogging Track"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1576486213369-148396e848b9?w=1200&q=85",
+        "caption": "Garden Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=85",
+        "caption": "Modern Home"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600607687644-c73fed138527?w=1200&q=85",
+        "caption": "House Exterior"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1586288203155-59a9f87c8b8a?w=1200&q=85",
+        "caption": "Interior Design"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Affordable 2 BHK Builder Floor",
+    "price": 6800000,
+    "location": "Sector 56, Faridabad",
+    "bhk": 2,
+    "type": "buy",
+    "area": 900,
+    "description": "Independent builder floor on quiet residential lane with modern amenities.",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Power Backup",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1566665556112-52e614cc6293?w=1200&q=85",
+        "caption": "Modern Style"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1200&q=85",
+        "caption": "Lounge Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552876856-c90e6d4cf2f3?w=1200&q=85",
+        "caption": "Furniture"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=1200&q=85",
+        "caption": "Living Space"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Smart Home 3 BHK Flat",
+    "price": 38000,
+    "location": "Sarjapur Road, Bangalore",
+    "bhk": 3,
+    "type": "rent",
+    "area": 1450,
+    "description": "Tech-enabled smart home with Alexa control and brand new construction.",
+    "image": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&q=80",
+    "amenities": [
+      "Smart Home",
+      "Coworking",
+      "Rooftop Lounge",
+      "Gym",
+      "Parking"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=1200&q=85",
+        "caption": "Room Design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1577121346433-a4dbd70d1e64?w=1200&q=85",
+        "caption": "Contemporary"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551632786-de41eccfccce?w=1200&q=85",
+        "caption": "Luxury Living"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600573472550-8090b5e9e90b?w=1200&q=85",
+        "caption": "Home Interior"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Affordable 1 BHK Apartment",
+    "price": 3500000,
+    "location": "Panjim, Goa",
+    "bhk": 1,
+    "type": "buy",
+    "area": 700,
+    "description": "Affordable 1 BHK apartment in prime location with good connectivity.",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Security",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1575696357409-efc11f69fcd0?w=1200&q=85",
+        "caption": "Foyer"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1570129477492-45ac003ff2a0?w=1200&q=85",
+        "caption": "Hallway"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=85",
+        "caption": "Closet Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600607695623-b5f4b5f7c3a2?w=1200&q=85",
+        "caption": "Storage Room"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Budget 1 BHK Near College",
+    "price": 9500,
+    "location": "Kothrud, Pune",
+    "bhk": 1,
+    "type": "rent",
+    "area": 420,
+    "description": "Affordable 1 BHK suited for students within 1 km of colleges.",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80",
+    "amenities": [
+      "Security",
+      "Lift",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1605276374104-dee2a0bb3e81?w=1200&q=85",
+        "caption": "Laundry Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1604014628819-c80da7df1e67?w=1200&q=85",
+        "caption": "Utility Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=85",
+        "caption": "Balcony"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600573472550-8090b5e9e90b?w=1200&q=85",
+        "caption": "Deck"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Modern 2 BHK Indiranagar",
+    "price": 25000,
+    "location": "Indiranagar, Bangalore",
+    "bhk": 2,
+    "type": "rent",
+    "area": 850,
+    "description": "Spacious 2 BHK in trendy Indiranagar with modern amenities and connectivity.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "WiFi",
+      "Parking",
+      "Security",
+      "Gym"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1576091160399-5dee09e8e46e?w=1200&q=85",
+        "caption": "Patio"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1585518419759-29e0b60e67c4?w=1200&q=85",
+        "caption": "Courtyard"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=1200&q=85",
+        "caption": "Entrance Hall"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1604009506606-fd91d7ae6562?w=1200&q=85",
+        "caption": "Living Area"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Luxury 4 BHK Villa Boisar",
+    "price": 50000000,
+    "location": "Boisar, Mumbai",
+    "bhk": 4,
+    "type": "buy",
+    "area": 4000,
+    "description": "Stunning villa with private pool and lush garden on outskirts of Mumbai.",
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+    "amenities": [
+      "Pool",
+      "Garden",
+      "Parking",
+      "Security",
+      "Servant Quarter"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1423666639041-f56000c27a7a?w=1200&q=85",
+        "caption": "Family Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1455849318743-68233fe4934d?w=1200&q=85",
+        "caption": "Recreation Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200&q=85",
+        "caption": "Game Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=85",
+        "caption": "Study"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Premium 3 BHK Sector 18 Noida",
+    "price": 8500000,
+    "location": "Sector 18, Noida",
+    "bhk": 3,
+    "type": "buy",
+    "area": 1400,
+    "description": "Ready possession 3 BHK flat in Sector 18 with all modern facilities.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Parking",
+      "Security",
+      "Club House"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1500595046891-da9419e48b4f?w=1200&q=85",
+        "caption": "Library"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=1200&q=85",
+        "caption": "Reading Nook"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&q=85",
+        "caption": "Meditation Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&q=85",
+        "caption": "Yoga Room"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Studio Chandigarh Downtown",
+    "price": 18000,
+    "location": "Chandigarh",
+    "bhk": 1,
+    "type": "rent",
+    "area": 450,
+    "description": "Compact studio apartment in Chandigarh's business district with amenities.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "WiFi",
+      "Parking",
+      "Security",
+      "Lift"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=1200&q=85",
+        "caption": "Master Suite"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1200&q=85",
+        "caption": "Ensuite"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584394838336-abadf3c96923?w=1200&q=85",
+        "caption": "Walk-in Closet"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1200&q=85",
+        "caption": "Vanity Area"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Luxury 3 BHK Koramangala",
+    "price": 32000,
+    "location": "Koramangala, Bangalore",
+    "bhk": 3,
+    "type": "rent",
+    "area": 1500,
+    "description": "Premium 3 BHK apartment in heart of Koramangala with excellent connectivity.",
+    "image": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&q=80",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Parking",
+      "Security",
+      "Concierge"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1494526585095-c894fdbb93d2?w=1200&q=85",
+        "caption": "Bathing Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=85",
+        "caption": "Jacuzzi Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&q=85",
+        "caption": "Sauna"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&q=85",
+        "caption": "Steam Room"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Heritage 3 BHK Fort Mumbai",
+    "price": 75000000,
+    "location": "Fort, Mumbai",
+    "bhk": 3,
+    "type": "buy",
+    "area": 1600,
+    "description": "Rare heritage apartment in Fort with character and historical significance.",
+    "image": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Security",
+      "Lift"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=85",
+        "caption": "Spa"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&q=85",
+        "caption": "Massage Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=85",
+        "caption": "Pantry"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600607687644-c73fed138527?w=1200&q=85",
+        "caption": "Wet Bar"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Beach-Adjacent 2 BHK Mahim",
+    "price": 55000,
+    "location": "Mahim, Mumbai",
+    "bhk": 2,
+    "type": "rent",
+    "area": 950,
+    "description": "Beautiful 2 BHK apartment near beach with sea breeze and calm locality.",
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Security",
+      "Lift"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1586288203155-59a9f87c8b8a?w=1200&q=85",
+        "caption": "Wine Cellar"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1566665556112-52e614cc6293?w=1200&q=85",
+        "caption": "Butler's Pantry"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1200&q=85",
+        "caption": "Kitchenette"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552876856-c90e6d4cf2f3?w=1200&q=85",
+        "caption": "Breakfast Nook"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "title": "Heritage 2 BHK Salt Lake",
+    "price": 28000,
+    "location": "Salt Lake, Kolkata",
+    "bhk": 2,
+    "type": "rent",
+    "area": 900,
+    "description": "Well-maintained 2 BHK in planned Salt Lake area of Kolkata.",
+    "image": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Security",
+      "Power Backup"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=1200&q=85",
+        "caption": "Serving Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=1200&q=85",
+        "caption": "Prep Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1577121346433-a4dbd70d1e64?w=1200&q=85",
+        "caption": "Bar Seating"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551632786-de41eccfccce?w=1200&q=85",
+        "caption": "Counter Space"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Luxury 1 BHK Penthouse",
+    "price": 5000000,
+    "location": "Juhu, Mumbai",
+    "bhk": 1,
+    "type": "buy",
+    "area": 800,
+    "description": "Ultra-luxury 1 BHK penthouse with panoramic views and premium finishes.",
+    "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800&q=80",
+    "amenities": [
+      "Private Terrace",
+      "Plunge Pool",
+      "Smart Home",
+      "Gym"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1600573472550-8090b5e9e90b?w=1200&q=85",
+        "caption": "Fireplace"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1575696357409-efc11f69fcd0?w=1200&q=85",
+        "caption": "Accent Wall"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1570129477492-45ac003ff2a0?w=1200&q=85",
+        "caption": "Gallery Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=85",
+        "caption": "Art Room"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Affordable 1 BHK Dwarka",
+    "price": 15000,
+    "location": "Dwarka, New Delhi",
+    "bhk": 1,
+    "type": "rent",
+    "area": 420,
+    "description": "Budget-friendly 1 BHK near metro with basic amenities and safe locality.",
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+    "amenities": [
+      "Security",
+      "Lift",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=1200&q=85",
+        "caption": "Display Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1493857671505-72967e2e2760?w=1200&q=85",
+        "caption": "Showcase"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533820502284-6f2fcb009588?w=1200&q=85",
+        "caption": "Feature Wall"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1534237886292-18ba6ca76e4f?w=1200&q=85",
+        "caption": "Lighting Design"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Modern 3 BHK Kondapur",
+    "price": 11000000,
+    "location": "Kondapur, Hyderabad",
+    "bhk": 3,
+    "type": "buy",
+    "area": 1500,
+    "description": "Premium 3 BHK in Kondapur with modern architecture and facilities.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Tennis Court",
+      "Parking"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1537959383331-b893e1470f8f?w=1200&q=85",
+        "caption": "Ambiance"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1540160581398-e8dd2b78ba6d?w=1200&q=85",
+        "caption": "Atmosphere"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547825681-7335dc881fa4?w=1200&q=85",
+        "caption": "Living Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551524019-62ef0efd0ff9?w=1200&q=85",
+        "caption": "Master Bedroom"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "title": "Riverside 2 BHK Powai",
+    "price": 52000,
+    "location": "Powai, Mumbai",
+    "bhk": 2,
+    "type": "rent",
+    "area": 1150,
+    "description": "Lake-facing apartment with premium finishes and excellent amenities.",
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80",
+    "amenities": [
+      "Furnished",
+      "Gym",
+      "Pool",
+      "Parking"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1555086638-5b4ef47b9a0c?w=1200&q=85",
+        "caption": "Modern Kitchen"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1555622173-f16e7e48aa3b?w=1200&q=85",
+        "caption": "Outdoor Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556909995-96ecdfb84b5f?w=1200&q=85",
+        "caption": "Sea View"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556990503-c707de18da3e?w=1200&q=85",
+        "caption": "City Lights"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "title": "New 1 BHK IT Hub Bangalore",
+    "price": 20000,
+    "location": "Bangalore",
+    "bhk": 1,
+    "type": "rent",
+    "area": 500,
+    "description": "Newly built 1 BHK near IT hub with furnished setup and great amenities.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "WiFi",
+      "Furnished",
+      "Gym",
+      "Parking"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85",
+        "caption": "Terrace View"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559003615-cd4628902662?w=1200&q=85",
+        "caption": "Swimming Pool"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559128017-48726e4b4c55?w=1200&q=85",
+        "caption": "Grand Entrance"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559047666-cd4628902662?w=1200&q=85",
+        "caption": "Luxury Interior"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "title": "Budget 2 BHK Satellite",
+    "price": 28000,
+    "location": "Satellite, Ahmedabad",
+    "bhk": 2,
+    "type": "rent",
+    "area": 750,
+    "description": "Affordable 2 BHK in family area with good connectivity and amenities.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Security",
+      "AC",
+      "Lift"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&q=85",
+        "caption": "Spacious Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=85",
+        "caption": "Contemporary Design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&q=85",
+        "caption": "Home Office"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&q=85",
+        "caption": "Dining Area"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "title": "Spacious 3 BHK Greater Kailash",
+    "price": 38000,
+    "location": "Greater Kailash, New Delhi",
+    "bhk": 3,
+    "type": "rent",
+    "area": 1300,
+    "description": "Luxurious 3 BHK in upscale Greater Kailash area with high-end furnishings.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Furnished",
+      "Parking",
+      "Security",
+      "AC",
+      "Lift"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=85",
+        "caption": "Pool Deck"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1494526585095-c894fdbb93d2?w=1200&q=85",
+        "caption": "Garden"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1200&q=85",
+        "caption": "Staircase"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584394838336-abadf3c96923?w=1200&q=85",
+        "caption": "Open Space"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "title": "Elegant 4 BHK Bungalow Puna",
+    "price": 18500000,
+    "location": "Pune",
+    "bhk": 4,
+    "type": "buy",
+    "area": 2500,
+    "description": "Elegant 4 BHK bungalow with lush garden and modern conveniences.",
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+    "amenities": [
+      "Garden",
+      "Parking",
+      "Security",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1200&q=85",
+        "caption": "Minimalist Style"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=1200&q=85",
+        "caption": "Bedroom Suite"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&q=85",
+        "caption": "Sleeping Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&q=85",
+        "caption": "Cozy Bedroom"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "title": "Modern 2 BHK CVR Towers",
+    "price": 19000000,
+    "location": "Telangana",
+    "bhk": 2,
+    "type": "buy",
+    "area": 1150,
+    "description": "Modern 2 BHK in premium tower with excellent amenities and location.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Parking",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=1200&q=85",
+        "caption": "Bed Design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1500595046891-da9419e48b4f?w=1200&q=85",
+        "caption": "Chef's Kitchen"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=85",
+        "caption": "Dining Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200&q=85",
+        "caption": "Pool Area"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Cozy Studio Nehru Place",
+    "price": 14000,
+    "location": "Nehru Place, New Delhi",
+    "bhk": 1,
+    "type": "rent",
+    "area": 350,
+    "description": "Compact studio in business district ideal for young professionals.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Lift",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1455849318743-68233fe4934d?w=1200&q=85",
+        "caption": "Backyard"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1423666639041-f56000c27a7a?w=1200&q=85",
+        "caption": "Poolside"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1604009506606-fd91d7ae6562?w=1200&q=85",
+        "caption": "Garden Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1540932626367-4f46c65c4e20?w=1200&q=85",
+        "caption": "Modern Home"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "title": "Affordable 1 BHK Anna Nagar",
+    "price": 12500,
+    "location": "Anna Nagar, Chennai",
+    "bhk": 1,
+    "type": "rent",
+    "area": 420,
+    "description": "Budget-friendly 1 BHK in residential locality with essential amenities.",
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+    "amenities": [
+      "Water 24/7",
+      "Security",
+      "Lift"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1631049307038-da8ec36b6ce0?w=1200&q=85",
+        "caption": "House Exterior"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=85",
+        "caption": "Interior Design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1505693314967-38904e4c2b11?w=1200&q=85",
+        "caption": "Modern Style"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=1200&q=85",
+        "caption": "Lounge Space"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "title": "Premium 2 BHK Baner",
+    "price": 30000,
+    "location": "Baner, Pune",
+    "bhk": 2,
+    "type": "rent",
+    "area": 900,
+    "description": "Premium 2 BHK in upscale Baner area with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Parking",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1585518419759-29e0b60e67c4?w=1200&q=85",
+        "caption": "Furniture"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1576091160399-5dee09e8e46e?w=1200&q=85",
+        "caption": "Living Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1585128959052-087fccdba117?w=1200&q=85",
+        "caption": "Room Design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&q=85",
+        "caption": "Contemporary"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "title": "Sea View 2 BHK Calangute",
+    "price": 24000,
+    "location": "Calangute, Goa",
+    "bhk": 2,
+    "type": "rent",
+    "area": 750,
+    "description": "Charming sea-view 2 BHK apartment near beach with relaxed lifestyle.",
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80",
+    "amenities": [
+      "Furnished",
+      "Parking",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1576486213369-148396e848b9?w=1200&q=85",
+        "caption": "Luxury Living"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=85",
+        "caption": "Home Interior"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600607687644-c73fed138527?w=1200&q=85",
+        "caption": "Foyer"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1586288203155-59a9f87c8b8a?w=1200&q=85",
+        "caption": "Hallway"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "title": "Modern 1 BHK HSR Layout",
+    "price": 18000,
+    "location": "HSR Layout, Bangalore",
+    "bhk": 1,
+    "type": "rent",
+    "area": 500,
+    "description": "Modern 1 BHK in vibrant HSR Layout with excellent connectivity.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "WiFi",
+      "Parking",
+      "Gym",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1566665556112-52e614cc6293?w=1200&q=85",
+        "caption": "Closet Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1200&q=85",
+        "caption": "Storage Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552876856-c90e6d4cf2f3?w=1200&q=85",
+        "caption": "Laundry Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=1200&q=85",
+        "caption": "Utility Room"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "title": "Luxury 3 BHK Golf Course Road",
+    "price": 22000000,
+    "location": "Golf Course Road, Gurgaon",
+    "bhk": 3,
+    "type": "buy",
+    "area": 1600,
+    "description": "Luxury 3 BHK on prestigious Golf Course Road with premium lifestyle.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Golf Course",
+      "Pool",
+      "Gym",
+      "Parking"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=1200&q=85",
+        "caption": "Balcony"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1577121346433-a4dbd70d1e64?w=1200&q=85",
+        "caption": "Deck"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551632786-de41eccfccce?w=1200&q=85",
+        "caption": "Patio"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600573472550-8090b5e9e90b?w=1200&q=85",
+        "caption": "Courtyard"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "title": "Studio Lodhi Road",
+    "price": 16000,
+    "location": "Lodhi Road, New Delhi",
+    "bhk": 1,
+    "type": "rent",
+    "area": 380,
+    "description": "Stylish studio apartment near Lodhi Gardens with upscale neighborhood.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "AC",
+      "Furnished",
+      "Lift",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1575696357409-efc11f69fcd0?w=1200&q=85",
+        "caption": "Entrance Hall"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1570129477492-45ac003ff2a0?w=1200&q=85",
+        "caption": "Living Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=85",
+        "caption": "Family Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600607695623-b5f4b5f7c3a2?w=1200&q=85",
+        "caption": "Recreation Room"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "title": "Spacious 2 BHK Worli",
+    "price": 85000,
+    "location": "Worli, Mumbai",
+    "bhk": 2,
+    "type": "rent",
+    "area": 950,
+    "description": "Premium 2 BHK in Worli with sea view and luxury amenities.",
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80",
+    "amenities": [
+      "Furnished",
+      "Gym",
+      "Pool",
+      "Concierge"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1605276374104-dee2a0bb3e81?w=1200&q=85",
+        "caption": "Game Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1604014628819-c80da7df1e67?w=1200&q=85",
+        "caption": "Study"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=85",
+        "caption": "Library"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600573472550-8090b5e9e90b?w=1200&q=85",
+        "caption": "Reading Nook"
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "title": "Budget 3 BHK Virar",
+    "price": 5000000,
+    "location": "Virar, Mumbai",
+    "bhk": 3,
+    "type": "buy",
+    "area": 1100,
+    "description": "Budget-friendly 3 BHK with basic amenities and good connectivity.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Security",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1576091160399-5dee09e8e46e?w=1200&q=85",
+        "caption": "Meditation Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1585518419759-29e0b60e67c4?w=1200&q=85",
+        "caption": "Yoga Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=1200&q=85",
+        "caption": "Master Suite"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1604009506606-fd91d7ae6562?w=1200&q=85",
+        "caption": "Ensuite"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "title": "Upscale 2 BHK Camp",
+    "price": 35000,
+    "location": "Camp, Pune",
+    "bhk": 2,
+    "type": "rent",
+    "area": 850,
+    "description": "Upscale 2 BHK in historic Camp area with excellent restaurants.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Security",
+      "AC",
+      "Furnished"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1423666639041-f56000c27a7a?w=1200&q=85",
+        "caption": "Walk-in Closet"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1455849318743-68233fe4934d?w=1200&q=85",
+        "caption": "Vanity Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200&q=85",
+        "caption": "Bathing Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=85",
+        "caption": "Jacuzzi Room"
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "title": "Green Valley 1 BHK Trivandrum",
+    "price": 11000,
+    "location": "Trivandrum",
+    "bhk": 1,
+    "type": "rent",
+    "area": 420,
+    "description": "Cozy 1 BHK in green locality with peaceful surroundings.",
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+    "amenities": [
+      "Water 24/7",
+      "Security",
+      "Green Area"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1500595046891-da9419e48b4f?w=1200&q=85",
+        "caption": "Sauna"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=1200&q=85",
+        "caption": "Steam Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&q=85",
+        "caption": "Spa"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&q=85",
+        "caption": "Massage Room"
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "title": "Compact Studio Indore",
+    "price": 8000,
+    "location": "Indore",
+    "bhk": 1,
+    "type": "rent",
+    "area": 300,
+    "description": "Compact studio apartment ideal for students or bachelors.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "AC",
+      "Lift",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=1200&q=85",
+        "caption": "Pantry"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1200&q=85",
+        "caption": "Wet Bar"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584394838336-abadf3c96923?w=1200&q=85",
+        "caption": "Wine Cellar"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1200&q=85",
+        "caption": "Butler's Pantry"
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "title": "Ready 4 BHK Pune Suburbs",
+    "price": 24000000,
+    "location": "Pune Suburbs",
+    "bhk": 4,
+    "type": "buy",
+    "area": 2800,
+    "description": "Ready 4 BHK villa in suburb with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+    "amenities": [
+      "Garden",
+      "Pool",
+      "Parking",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1494526585095-c894fdbb93d2?w=1200&q=85",
+        "caption": "Kitchenette"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=85",
+        "caption": "Breakfast Nook"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&q=85",
+        "caption": "Serving Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&q=85",
+        "caption": "Prep Area"
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "title": "Elegant 2 BHK Sector 7 Dwarka",
+    "price": 32000,
+    "location": "Sector 7, Dwarka, New Delhi",
+    "bhk": 2,
+    "type": "rent",
+    "area": 900,
+    "description": "Elegant 2 BHK with modern furnishings and excellent connectivity.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Furnished",
+      "Parking",
+      "Gym",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=85",
+        "caption": "Bar Seating"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&q=85",
+        "caption": "Counter Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=85",
+        "caption": "Fireplace"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600607687644-c73fed138527?w=1200&q=85",
+        "caption": "Accent Wall"
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "title": "Luxury 3 BHK Whitefield",
+    "price": 28000000,
+    "location": "Whitefield, Bangalore",
+    "bhk": 3,
+    "type": "buy",
+    "area": 1700,
+    "description": "Luxury 3 BHK near tech parks with premium amenities.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Parking",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1586288203155-59a9f87c8b8a?w=1200&q=85",
+        "caption": "Gallery Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1566665556112-52e614cc6293?w=1200&q=85",
+        "caption": "Art Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1200&q=85",
+        "caption": "Display Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552876856-c90e6d4cf2f3?w=1200&q=85",
+        "caption": "Showcase"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "title": "Sea-View 1 BHK Alibaug",
+    "price": 2500000,
+    "location": "Alibaug",
+    "bhk": 1,
+    "type": "buy",
+    "area": 550,
+    "description": "Charming 1 BHK with sea view perfect for weekend getaway.",
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=1200&q=85",
+        "caption": "Feature Wall"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=1200&q=85",
+        "caption": "Lighting Design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1577121346433-a4dbd70d1e64?w=1200&q=85",
+        "caption": "Ambiance"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551632786-de41eccfccce?w=1200&q=85",
+        "caption": "Atmosphere"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "title": "Premium 2 BHK Somajiguda",
+    "price": 26000,
+    "location": "Somajiguda, Hyderabad",
+    "bhk": 2,
+    "type": "rent",
+    "area": 900,
+    "description": "Premium 2 BHK in upscale Hyderabad locality with modern facilities.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Gym",
+      "Parking",
+      "Security",
+      "Lift"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1600573472550-8090b5e9e90b?w=1200&q=85",
+        "caption": "Living Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1575696357409-efc11f69fcd0?w=1200&q=85",
+        "caption": "Master Bedroom"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1570129477492-45ac003ff2a0?w=1200&q=85",
+        "caption": "Modern Kitchen"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=85",
+        "caption": "Outdoor Space"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "title": "Modern 1 BHK Gachibowli",
+    "price": 17000,
+    "location": "Gachibowli, Hyderabad",
+    "bhk": 1,
+    "type": "rent",
+    "area": 450,
+    "description": "Modern 1 BHK near tech hub with all necessary amenities.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "WiFi",
+      "Parking",
+      "Gym"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=1200&q=85",
+        "caption": "Sea View"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1493857671505-72967e2e2760?w=1200&q=85",
+        "caption": "City Lights"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533820502284-6f2fcb009588?w=1200&q=85",
+        "caption": "Terrace View"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1534237886292-18ba6ca76e4f?w=1200&q=85",
+        "caption": "Swimming Pool"
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "title": "Spacious 3 BHK Sector 8 Dwarka",
+    "price": 35000,
+    "location": "Sector 8, Dwarka, New Delhi",
+    "bhk": 3,
+    "type": "rent",
+    "area": 1400,
+    "description": "Spacious 3 BHK in DDA with excellent amenities and security.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Furnished",
+      "Parking",
+      "Gym",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1537959383331-b893e1470f8f?w=1200&q=85",
+        "caption": "Grand Entrance"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1540160581398-e8dd2b78ba6d?w=1200&q=85",
+        "caption": "Luxury Interior"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547825681-7335dc881fa4?w=1200&q=85",
+        "caption": "Spacious Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551524019-62ef0efd0ff9?w=1200&q=85",
+        "caption": "Contemporary Design"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "title": "Hilltop 2 BHK Nainital",
+    "price": 7500000,
+    "location": "Nainital",
+    "bhk": 2,
+    "type": "buy",
+    "area": 1000,
+    "description": "Hilltop 2 BHK property with scenic views and peaceful ambiance.",
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80",
+    "amenities": [
+      "Garden",
+      "Water 24/7",
+      "Power Backup"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1555086638-5b4ef47b9a0c?w=1200&q=85",
+        "caption": "Home Office"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1555622173-f16e7e48aa3b?w=1200&q=85",
+        "caption": "Dining Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556909995-96ecdfb84b5f?w=1200&q=85",
+        "caption": "Pool Deck"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556990503-c707de18da3e?w=1200&q=85",
+        "caption": "Garden"
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "title": "Downtown 1 BHK Lucknow",
+    "price": 10000,
+    "location": "Lucknow",
+    "bhk": 1,
+    "type": "rent",
+    "area": 400,
+    "description": "Downtown 1 BHK in city center with good accessibility.",
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+    "amenities": [
+      "AC",
+      "Security",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85",
+        "caption": "Staircase"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559003615-cd4628902662?w=1200&q=85",
+        "caption": "Open Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559128017-48726e4b4c55?w=1200&q=85",
+        "caption": "Minimalist Style"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559047666-cd4628902662?w=1200&q=85",
+        "caption": "Bedroom Suite"
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "title": "Suburban 2 BHK Surat",
+    "price": 4500000,
+    "location": "Surat",
+    "bhk": 2,
+    "type": "buy",
+    "area": 800,
+    "description": "Suburban 2 BHK with basic amenities and affordable pricing.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Security",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&q=85",
+        "caption": "Sleeping Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=85",
+        "caption": "Cozy Bedroom"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&q=85",
+        "caption": "Bed Design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&q=85",
+        "caption": "Chef's Kitchen"
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "title": "Chic Studio Bandra",
+    "price": 21000,
+    "location": "Bandra, Mumbai",
+    "bhk": 1,
+    "type": "rent",
+    "area": 400,
+    "description": "Chic studio apartment in trendy Bandra with modern setup.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "Furnished",
+      "AC",
+      "Lift"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=85",
+        "caption": "Dining Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1494526585095-c894fdbb93d2?w=1200&q=85",
+        "caption": "Pool Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1200&q=85",
+        "caption": "Backyard"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584394838336-abadf3c96923?w=1200&q=85",
+        "caption": "Poolside"
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "title": "Premium 4 BHK Sector 51 Gurgaon",
+    "price": 55000000,
+    "location": "Sector 51, Gurgaon",
+    "bhk": 4,
+    "type": "buy",
+    "area": 4200,
+    "description": "Premium 4 BHK in prime Gurgaon location with luxury amenities.",
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Parking",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1200&q=85",
+        "caption": "Garden Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=1200&q=85",
+        "caption": "Modern Home"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&q=85",
+        "caption": "House Exterior"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&q=85",
+        "caption": "Interior Design"
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "title": "Garden 3 BHK Nashik",
+    "price": 8500000,
+    "location": "Nashik",
+    "bhk": 3,
+    "type": "buy",
+    "area": 1500,
+    "description": "Garden villa 3 BHK with spacious layout and outdoor space.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Garden",
+      "Parking",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=1200&q=85",
+        "caption": "Modern Style"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1500595046891-da9419e48b4f?w=1200&q=85",
+        "caption": "Lounge Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=85",
+        "caption": "Furniture"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200&q=85",
+        "caption": "Living Space"
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "title": "Riverside 1 BHK Varanasi",
+    "price": 2000000,
+    "location": "Varanasi",
+    "bhk": 1,
+    "type": "buy",
+    "area": 450,
+    "description": "Riverside 1 BHK property with cultural significance and views.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "Water 24/7",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1455849318743-68233fe4934d?w=1200&q=85",
+        "caption": "Room Design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1423666639041-f56000c27a7a?w=1200&q=85",
+        "caption": "Contemporary"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1604009506606-fd91d7ae6562?w=1200&q=85",
+        "caption": "Luxury Living"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1540932626367-4f46c65c4e20?w=1200&q=85",
+        "caption": "Home Interior"
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "title": "Tech-Smart 2 BHK Bangalore",
+    "price": 23000,
+    "location": "Bangalore",
+    "bhk": 2,
+    "type": "rent",
+    "area": 800,
+    "description": "Tech-enabled 2 BHK smart home with IoT automation.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Smart Home",
+      "WiFi",
+      "Gym",
+      "Parking"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1631049307038-da8ec36b6ce0?w=1200&q=85",
+        "caption": "Foyer"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=85",
+        "caption": "Hallway"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1505693314967-38904e4c2b11?w=1200&q=85",
+        "caption": "Closet Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=1200&q=85",
+        "caption": "Storage Room"
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "title": "Cozy 1 BHK Nagpur",
+    "price": 6500,
+    "location": "Nagpur",
+    "bhk": 1,
+    "type": "rent",
+    "area": 350,
+    "description": "Cozy 1 BHK apartment with friendly locality and good amenities.",
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+    "amenities": [
+      "AC",
+      "Water 24/7",
+      "Lift"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1585518419759-29e0b60e67c4?w=1200&q=85",
+        "caption": "Laundry Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1576091160399-5dee09e8e46e?w=1200&q=85",
+        "caption": "Utility Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1585128959052-087fccdba117?w=1200&q=85",
+        "caption": "Balcony"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&q=85",
+        "caption": "Deck"
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "title": "Executive 3 BHK Jubilee Hills",
+    "price": 32000000,
+    "location": "Jubilee Hills, Hyderabad",
+    "bhk": 3,
+    "type": "buy",
+    "area": 1800,
+    "description": "Executive 3 BHK in upscale Jubilee Hills with premium finishes.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Parking",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1576486213369-148396e848b9?w=1200&q=85",
+        "caption": "Patio"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=85",
+        "caption": "Courtyard"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600607687644-c73fed138527?w=1200&q=85",
+        "caption": "Entrance Hall"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1586288203155-59a9f87c8b8a?w=1200&q=85",
+        "caption": "Living Area"
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "title": "Affordable 1 BHK Vadodara",
+    "price": 2800000,
+    "location": "Vadodara",
+    "bhk": 1,
+    "type": "buy",
+    "area": 500,
+    "description": "Affordable 1 BHK property in Vadodara with good construction.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Security",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1566665556112-52e614cc6293?w=1200&q=85",
+        "caption": "Family Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1200&q=85",
+        "caption": "Recreation Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552876856-c90e6d4cf2f3?w=1200&q=85",
+        "caption": "Game Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=1200&q=85",
+        "caption": "Study"
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "title": "Luxury 2 BHK Marine Drive",
+    "price": 120000000,
+    "location": "Marine Drive, Mumbai",
+    "bhk": 2,
+    "type": "buy",
+    "area": 1200,
+    "description": "Ultra-luxury 2 BHK on Marine Drive with iconic sea views.",
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Security",
+      "Concierge"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=1200&q=85",
+        "caption": "Library"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1577121346433-a4dbd70d1e64?w=1200&q=85",
+        "caption": "Reading Nook"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551632786-de41eccfccce?w=1200&q=85",
+        "caption": "Meditation Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600573472550-8090b5e9e90b?w=1200&q=85",
+        "caption": "Yoga Room"
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "title": "Modern Studio Rajouri Garden",
+    "price": 12000,
+    "location": "Rajouri Garden, New Delhi",
+    "bhk": 1,
+    "type": "rent",
+    "area": 350,
+    "description": "Modern studio apartment near metro with excellent amenities.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "AC",
+      "Furnished",
+      "Lift",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1575696357409-efc11f69fcd0?w=1200&q=85",
+        "caption": "Master Suite"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1570129477492-45ac003ff2a0?w=1200&q=85",
+        "caption": "Ensuite"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=85",
+        "caption": "Walk-in Closet"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600607695623-b5f4b5f7c3a2?w=1200&q=85",
+        "caption": "Vanity Area"
+      }
+    ]
+  },
+  {
+    "id": "62",
+    "title": "Green Valley 3 BHK Dehradun",
+    "price": 12000000,
+    "location": "Dehradun",
+    "bhk": 3,
+    "type": "buy",
+    "area": 1600,
+    "description": "Green valley 3 BHK property with natural surroundings.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Garden",
+      "Water 24/7",
+      "Power Backup"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1605276374104-dee2a0bb3e81?w=1200&q=85",
+        "caption": "Bathing Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1604014628819-c80da7df1e67?w=1200&q=85",
+        "caption": "Jacuzzi Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=85",
+        "caption": "Sauna"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600573472550-8090b5e9e90b?w=1200&q=85",
+        "caption": "Steam Room"
+      }
+    ]
+  },
+  {
+    "id": "63",
+    "title": "Compact 1 BHK Raipur",
+    "price": 5500,
+    "location": "Raipur",
+    "bhk": 1,
+    "type": "rent",
+    "area": 320,
+    "description": "Compact 1 BHK suitable for working professionals.",
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+    "amenities": [
+      "AC",
+      "Security",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1576091160399-5dee09e8e46e?w=1200&q=85",
+        "caption": "Spa"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1585518419759-29e0b60e67c4?w=1200&q=85",
+        "caption": "Massage Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=1200&q=85",
+        "caption": "Pantry"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1604009506606-fd91d7ae6562?w=1200&q=85",
+        "caption": "Wet Bar"
+      }
+    ]
+  },
+  {
+    "id": "64",
+    "title": "Urban 2 BHK Noida City Center",
+    "price": 11000000,
+    "location": "Noida City Center",
+    "bhk": 2,
+    "type": "buy",
+    "area": 1050,
+    "description": "Urban 2 BHK with modern facilities in planned township.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Parking",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1423666639041-f56000c27a7a?w=1200&q=85",
+        "caption": "Wine Cellar"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1455849318743-68233fe4934d?w=1200&q=85",
+        "caption": "Butler's Pantry"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200&q=85",
+        "caption": "Kitchenette"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=85",
+        "caption": "Breakfast Nook"
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "title": "Heritage 1 BHK Jaipur",
+    "price": 2000000,
+    "location": "Jaipur",
+    "bhk": 1,
+    "type": "buy",
+    "area": 500,
+    "description": "Heritage 1 BHK in walled city area with historical charm.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1500595046891-da9419e48b4f?w=1200&q=85",
+        "caption": "Serving Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=1200&q=85",
+        "caption": "Prep Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&q=85",
+        "caption": "Bar Seating"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&q=85",
+        "caption": "Counter Space"
+      }
+    ]
+  },
+  {
+    "id": "66",
+    "title": "Student-Friendly 1 BHK Bhopal",
+    "price": 7000,
+    "location": "Bhopal",
+    "bhk": 1,
+    "type": "rent",
+    "area": 380,
+    "description": "Student-friendly 1 BHK apartment with shared amenities.",
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+    "amenities": [
+      "AC",
+      "Security",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=1200&q=85",
+        "caption": "Fireplace"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1200&q=85",
+        "caption": "Accent Wall"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584394838336-abadf3c96923?w=1200&q=85",
+        "caption": "Gallery Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1200&q=85",
+        "caption": "Art Room"
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "title": "Sunset View 2 BHK Lonavala",
+    "price": 3500000,
+    "location": "Lonavala",
+    "bhk": 2,
+    "type": "buy",
+    "area": 900,
+    "description": "Sunset view 2 BHK property with scenic location.",
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80",
+    "amenities": [
+      "Water 24/7",
+      "Garden"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1494526585095-c894fdbb93d2?w=1200&q=85",
+        "caption": "Display Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=85",
+        "caption": "Showcase"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&q=85",
+        "caption": "Feature Wall"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&q=85",
+        "caption": "Lighting Design"
+      }
+    ]
+  },
+  {
+    "id": "68",
+    "title": "Affordable 3 BHK Lucknow",
+    "price": 6000000,
+    "location": "Lucknow",
+    "bhk": 3,
+    "type": "buy",
+    "area": 1300,
+    "description": "Affordable 3 BHK with basic amenities and good locality.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Security",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=85",
+        "caption": "Ambiance"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&q=85",
+        "caption": "Atmosphere"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=85",
+        "caption": "Living Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600607687644-c73fed138527?w=1200&q=85",
+        "caption": "Master Bedroom"
+      }
+    ]
+  },
+  {
+    "id": "69",
+    "title": "Smart Living 2 BHK Gurgaon",
+    "price": 31000,
+    "location": "Gurgaon",
+    "bhk": 2,
+    "type": "rent",
+    "area": 950,
+    "description": "Smart living 2 BHK with IoT amenities and modern design.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Smart Home",
+      "Gym",
+      "Pool",
+      "Parking"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1586288203155-59a9f87c8b8a?w=1200&q=85",
+        "caption": "Modern Kitchen"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1566665556112-52e614cc6293?w=1200&q=85",
+        "caption": "Outdoor Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1200&q=85",
+        "caption": "Sea View"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552876856-c90e6d4cf2f3?w=1200&q=85",
+        "caption": "City Lights"
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "title": "Budget Beach 1 BHK Pondicherry",
+    "price": 1500000,
+    "location": "Pondicherry",
+    "bhk": 1,
+    "type": "buy",
+    "area": 450,
+    "description": "Budget beach property 1 BHK with proximity to sea.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "Water 24/7",
+      "Parking"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=1200&q=85",
+        "caption": "Terrace View"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=1200&q=85",
+        "caption": "Swimming Pool"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1577121346433-a4dbd70d1e64?w=1200&q=85",
+        "caption": "Grand Entrance"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551632786-de41eccfccce?w=1200&q=85",
+        "caption": "Luxury Interior"
+      }
+    ]
+  },
+  {
+    "id": "71",
+    "title": "Commercial-Use 2 BHK Kochi",
+    "price": 9500000,
+    "location": "Kochi",
+    "bhk": 2,
+    "type": "buy",
+    "area": 1000,
+    "description": "2 BHK property with commercial space on ground floor.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Security",
+      "Power Backup"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1600573472550-8090b5e9e90b?w=1200&q=85",
+        "caption": "Spacious Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1575696357409-efc11f69fcd0?w=1200&q=85",
+        "caption": "Contemporary Design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1570129477492-45ac003ff2a0?w=1200&q=85",
+        "caption": "Home Office"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=85",
+        "caption": "Dining Area"
+      }
+    ]
+  },
+  {
+    "id": "72",
+    "title": "Hybrid 1 BHK Jalandhar",
+    "price": 13500,
+    "location": "Jalandhar",
+    "bhk": 1,
+    "type": "rent",
+    "area": 420,
+    "description": "Hybrid 1 BHK with work and living space combined.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Lift"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=1200&q=85",
+        "caption": "Pool Deck"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1493857671505-72967e2e2760?w=1200&q=85",
+        "caption": "Garden"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533820502284-6f2fcb009588?w=1200&q=85",
+        "caption": "Staircase"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1534237886292-18ba6ca76e4f?w=1200&q=85",
+        "caption": "Open Space"
+      }
+    ]
+  },
+  {
+    "id": "73",
+    "title": "Royal 3 BHK Indore",
+    "price": 15000000,
+    "location": "Indore",
+    "bhk": 3,
+    "type": "buy",
+    "area": 1700,
+    "description": "Royal 3 BHK with palatial design and premium location.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Garden",
+      "Pool",
+      "Parking",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1537959383331-b893e1470f8f?w=1200&q=85",
+        "caption": "Minimalist Style"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1540160581398-e8dd2b78ba6d?w=1200&q=85",
+        "caption": "Bedroom Suite"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547825681-7335dc881fa4?w=1200&q=85",
+        "caption": "Sleeping Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551524019-62ef0efd0ff9?w=1200&q=85",
+        "caption": "Cozy Bedroom"
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "title": "Eco-Friendly 2 BHK Nashik",
+    "price": 8000000,
+    "location": "Nashik",
+    "bhk": 2,
+    "type": "buy",
+    "area": 1100,
+    "description": "Eco-friendly 2 BHK with sustainable building practices.",
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=85",
+    "amenities": [
+      "Solar Power",
+      "Rainwater Harvesting",
+      "Garden"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1555086638-5b4ef47b9a0c?w=1200&q=85",
+        "caption": "Bed Design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1555622173-f16e7e48aa3b?w=1200&q=85",
+        "caption": "Chef's Kitchen"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556909995-96ecdfb84b5f?w=1200&q=85",
+        "caption": "Dining Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556990503-c707de18da3e?w=1200&q=85",
+        "caption": "Pool Area"
+      }
+    ]
+  },
+  {
+    "id": "75",
+    "title": "Tech Hub 1 BHK Mohali",
+    "price": 14000,
+    "location": "Mohali",
+    "bhk": 1,
+    "type": "rent",
+    "area": 400,
+    "description": "Tech hub 1 BHK near IT companies with modern amenities.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "WiFi",
+      "Parking",
+      "Gym"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85",
+        "caption": "Backyard"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559003615-cd4628902662?w=1200&q=85",
+        "caption": "Poolside"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559128017-48726e4b4c55?w=1200&q=85",
+        "caption": "Garden Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559047666-cd4628902662?w=1200&q=85",
+        "caption": "Modern Home"
+      }
+    ]
+  },
+  {
+    "id": "76",
+    "title": "Riverside 4 BHK Belgaum",
+    "price": 16000000,
+    "location": "Belgaum",
+    "bhk": 4,
+    "type": "buy",
+    "area": 2200,
+    "description": "Riverside 4 BHK property with serene surroundings.",
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+    "amenities": [
+      "Garden",
+      "Parking",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&q=85",
+        "caption": "House Exterior"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=85",
+        "caption": "Interior Design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&q=85",
+        "caption": "Modern Style"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&q=85",
+        "caption": "Lounge Space"
+      }
+    ]
+  },
+  {
+    "id": "77",
+    "title": "Affordable Studio Amritsar",
+    "price": 9000,
+    "location": "Amritsar",
+    "bhk": 1,
+    "type": "rent",
+    "area": 300,
+    "description": "Affordable studio apartment in central location.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "amenities": [
+      "AC",
+      "Lift",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=85",
+        "caption": "Furniture"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1494526585095-c894fdbb93d2?w=1200&q=85",
+        "caption": "Living Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1200&q=85",
+        "caption": "Room Design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584394838336-abadf3c96923?w=1200&q=85",
+        "caption": "Contemporary"
+      }
+    ]
+  },
+  {
+    "id": "78",
+    "title": "Premium 3 BHK Visakhapatnam",
+    "price": 25000000,
+    "location": "Visakhapatnam",
+    "bhk": 3,
+    "type": "buy",
+    "area": 1600,
+    "description": "Premium 3 BHK in beach city with luxury amenities.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Parking",
+      "Security"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1200&q=85",
+        "caption": "Luxury Living"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=1200&q=85",
+        "caption": "Home Interior"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&q=85",
+        "caption": "Foyer"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&q=85",
+        "caption": "Hallway"
+      }
+    ]
+  },
+  {
+    "id": "79",
+    "title": "Compact 2 BHK Ranchi",
+    "price": 4200000,
+    "location": "Ranchi",
+    "bhk": 2,
+    "type": "buy",
+    "area": 750,
+    "description": "Compact 2 BHK with modern construction and amenities.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Security",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=1200&q=85",
+        "caption": "Closet Space"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1500595046891-da9419e48b4f?w=1200&q=85",
+        "caption": "Storage Room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=85",
+        "caption": "Laundry Area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200&q=85",
+        "caption": "Utility Room"
+      }
+    ]
+  },
+  {
+    "id": "80",
+    "title": "Extended 3 BHK Mysore",
+    "price": 7500000,
+    "location": "Mysore",
+    "bhk": 3,
+    "type": "buy",
+    "area": 1400,
+    "description": "Extended 3 BHK property in garden city with spacious layout.",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "amenities": [
+      "Garden",
+      "Parking",
+      "Water 24/7"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1455849318743-68233fe4934d?w=1200&q=85",
+        "caption": "Balcony"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1423666639041-f56000c27a7a?w=1200&q=85",
+        "caption": "Deck"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1604009506606-fd91d7ae6562?w=1200&q=85",
+        "caption": "Patio"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1540932626367-4f46c65c4e20?w=1200&q=85",
+        "caption": "Courtyard"
+      }
+    ]
+  }
+]
