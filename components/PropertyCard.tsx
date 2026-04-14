@@ -107,7 +107,7 @@ function PropertyCardComponent({ property, priority = false }: PropertyCardProps
     <Link href={`/property/${property.id}`} className="group block">
       <article className="bg-white rounded-2xl overflow-hidden border border-stone-100 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
         {/* Image Container */}
-        <div className="relative h-52 overflow-hidden bg-stone-200">
+        <div className="relative w-full aspect-video overflow-hidden bg-stone-200">
           {hasMultipleImages ? (
             <>
               {/* Carousel */}
@@ -134,9 +134,9 @@ function PropertyCardComponent({ property, priority = false }: PropertyCardProps
                         alt={img.caption || property.title}
                         fill
                         className="object-cover group-hover:scale-105 transition-transform duration-200"
-                        sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, (max-width: 1280px) 50vw, 33vw"
+                        sizes="(max-width: 640px) calc(100vw - 32px), (max-width: 1024px) calc(50vw - 20px), calc(33vw - 16px)"
                         priority={priority && idx === 0}
-                        quality={70}
+                        quality={80}
                         onError={() => handleImageError(idx)}
                       />
                     )}
@@ -199,9 +199,9 @@ function PropertyCardComponent({ property, priority = false }: PropertyCardProps
                 alt={property.title}
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-200"
-                sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, (max-width: 1280px) 50vw, 33vw"
+                sizes="(max-width: 640px) calc(100vw - 32px), (max-width: 1024px) calc(50vw - 20px), calc(33vw - 16px)"
                 priority={priority}
-                quality={70}
+                quality={80}
               />
               <div className="absolute top-3 right-3">
                 <span className="bg-white/90 backdrop-blur-sm text-stone-700 text-xs font-medium px-2.5 py-1 rounded-full">
