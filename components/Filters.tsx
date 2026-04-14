@@ -62,7 +62,6 @@ export default function Filters({
   onPriceChange,
   amenities,
   onAmenitiesChange,
-  availableAmenities,
 }: FiltersProps) {
   const handleAmenityToggle = (amenity: string) => {
     if (amenities.includes(amenity)) {
