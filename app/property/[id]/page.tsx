@@ -11,7 +11,7 @@ import ContactCard from '@/components/ContactCard';
 import PropertyNavTabs from '@/components/PropertyNavTabs';
 
 interface Props {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }
 
 function formatPrice(price: number, type: 'buy' | 'rent'): string {
@@ -25,8 +25,9 @@ export async function generateStaticParams() {
   return (properties as Property[]).map((p) => ({ id: p.id }));
 }
 
-export default function PropertyDetailPage({ params }: Props) {
-  const property = (properties as Property[]).find((p) => p.id === params.id);
+export default async function PropertyDetailPage({ params }: Props) {
+  const resolvedParams = await params;
+  const property = (properties as Property[]).find((p) => p.id === resolvedParams.id);
 
   if (!property) notFound();
 
