@@ -7,8 +7,8 @@ import SinglePropertyImage from '@/components/SinglePropertyImage';
 import TopFacilitiesGrid from '@/components/TopFacilitiesGrid';
 import FacilityGroupsList from '@/components/FacilityGroupsList';
 import PropertyPolicies from '@/components/PropertyPolicies';
-import ContactCard from '@/components/ContactCard';
 import PropertyNavTabs from '@/components/PropertyNavTabs';
+import PropertyDetailsSidebar from '@/components/PropertyDetailsSidebar';
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -180,63 +180,7 @@ export default async function PropertyDetailPage({ params }: Props) {
           </div>
 
           {/* Sidebar (1 column) */}
-          <div className="lg:col-span-1">
-            <div className="bg-white rounded-3xl border border-stone-100 shadow-sm p-8 sticky top-28 space-y-6">
-              <div className="space-y-3">
-                <h3 className="text-2xl font-bold text-stone-900">Interested?</h3>
-                <p className="text-stone-600 text-sm leading-relaxed">
-                  Schedule a private viewing or request more information about this property.
-                </p>
-              </div>
-
-              <div className="space-y-3">
-                <a
-                  href={property.contact?.phone?.[0] ? `tel:${property.contact.phone[0]}` : '#'}
-                  className="block w-full bg-amber-500 hover:bg-amber-600 text-white font-bold py-4 px-6 rounded-2xl transition-colors text-center uppercase tracking-widest text-sm shadow-lg shadow-amber-500/20"
-                >
-                  Contact Agent
-                </a>
-                <button className="w-full bg-stone-100 hover:bg-stone-200 text-stone-900 font-bold py-4 px-6 rounded-2xl transition-colors uppercase tracking-widest text-sm border border-stone-200">
-                  Schedule a Tour
-                </button>
-              </div>
-
-              <div className="flex items-center justify-center gap-6 py-4 border-y border-stone-100">
-                <button className="flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-stone-600 hover:text-amber-600 transition-colors">
-                  <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                    <path strokeLinecap="round" strokeLinejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
-                  </svg>
-                  Save
-                </button>
-                <button className="flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-stone-600 hover:text-amber-600 transition-colors">
-                  <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                    <path strokeLinecap="round" strokeLinejoin="round" d="M8.684 13.342C9.589 12.881 10 11.953 10 11c0-2.21-1.791-4-4-4s-4 1.79-4 4 1.791 4 4 4c.359 0 .703-.054 1.034-.156m15.464-1.933c.305.435.291 1.056-.034 1.455m0 0c-.59.79-1.666 1.334-2.966 1.334-2.209 0-4-1.79-4-4 0-1.193.584-2.26 1.527-2.901" />
-                  </svg>
-                  Share
-                </button>
-              </div>
-
-              {property.contact && (
-                
-                  <div className="bg-stone-50 rounded-2xl p-4 flex items-center gap-4">
-                    <div className="w-12 h-12 rounded-full bg-amber-500 flex items-center justify-center text-white font-bold text-lg shrink-0">
-                      {property.title.charAt(0)}
-                    </div>
-                    <div>
-                      <div className="font-bold text-stone-900">Verified Partner</div>
-                      <div className="text-xs text-stone-500">Premium Listing</div>
-                    </div>
-                  </div>
-                
-              )}
-
-              {property.contact && (property.contact.phone || property.contact.email || property.contact.website) && (
-                <div className="pt-4 border-t border-stone-100">
-                  <ContactCard contact={property.contact} />
-                </div>
-              )}
-            </div>
-          </div>
+          <PropertyDetailsSidebar property={property} />
         </div>
       </div>
     </main>
