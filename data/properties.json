@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Luxury 1 BHK Sea-View Apartment",
-    "price": 4500000,
+    "price": 3510792,
     "location": "Bandra West, Mumbai",
     "bhk": 1,
     "type": "buy",
@@ -112,12 +112,13 @@
           "Processing fees apply after cooling-off period"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Villa"
   },
   {
     "id": "2",
     "title": "Modern 1 BHK Studio Near IT Park",
-    "price": 22000,
+    "price": 2135745,
     "location": "Whitefield, Bangalore",
     "bhk": 1,
     "type": "rent",
@@ -227,12 +228,13 @@
           "Housekeeping: Separate paid service"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Villa"
   },
   {
     "id": "3",
     "title": "Spacious 4 BHK Family Villa",
-    "price": 42000000,
+    "price": 4397568,
     "location": "DLF Phase 2, Gurgaon",
     "bhk": 4,
     "type": "buy",
@@ -353,12 +355,13 @@
           "Extended warranty on structural components"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Villa"
   },
   {
     "id": "4",
     "title": "Heritage-Style 2 BHK",
-    "price": 35000,
+    "price": 9757940,
     "location": "Alipore, Kolkata",
     "bhk": 2,
     "type": "rent",
@@ -467,12 +470,13 @@
           "Repair & painting by tenant"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Villa"
   },
   {
     "id": "5",
     "title": "Penthouse 4 BHK with Terrace",
-    "price": 95000000,
+    "price": 8689721,
     "location": "Juhu, Mumbai",
     "bhk": 4,
     "type": "buy",
@@ -484,7 +488,9 @@
       "Plunge Pool",
       "Smart Home",
       "Private Elevator",
-      "Gym"
+      "Gym",
+      "Furnished",
+      "Pool"
     ],
     "images": [
       {
@@ -593,12 +599,13 @@
           "24/7 private security & concierge"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Villa"
   },
   {
     "id": "6",
     "title": "Cozy 1 BHK near Metro",
-    "price": 16500,
+    "price": 5017830,
     "location": "Dwarka, New Delhi",
     "bhk": 1,
     "type": "rent",
@@ -706,12 +713,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Villa"
   },
   {
     "id": "7",
     "title": "Premium 3 BHK in Gated Society",
-    "price": 12500000,
+    "price": 13713372,
     "location": "Kondapur, Hyderabad",
     "bhk": 3,
     "type": "buy",
@@ -820,12 +828,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Villa"
   },
   {
     "id": "8",
     "title": "Lake-Facing 2 BHK Apartment",
-    "price": 48000,
+    "price": 16034427,
     "location": "Powai, Mumbai",
     "bhk": 2,
     "type": "rent",
@@ -934,12 +943,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Villa"
   },
   {
     "id": "9",
     "title": "Affordable 2 BHK Builder Floor",
-    "price": 6800000,
+    "price": 13601434,
     "location": "Sector 56, Faridabad",
     "bhk": 2,
     "type": "buy",
@@ -949,7 +959,8 @@
     "amenities": [
       "Parking",
       "Power Backup",
-      "Water 24/7"
+      "Water 24/7",
+      "Lift"
     ],
     "images": [
       {
@@ -1046,12 +1057,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Villa"
   },
   {
     "id": "10",
     "title": "Smart Home 3 BHK Flat",
-    "price": 38000,
+    "price": 69137892,
     "location": "Sarjapur Road, Bangalore",
     "bhk": 3,
     "type": "rent",
@@ -1160,12 +1172,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Villa"
   },
   {
     "id": "11",
     "title": "Affordable 1 BHK Apartment",
-    "price": 3500000,
+    "price": 64104885,
     "location": "Panjim, Goa",
     "bhk": 1,
     "type": "buy",
@@ -1175,7 +1188,8 @@
     "amenities": [
       "Parking",
       "Security",
-      "Water 24/7"
+      "Water 24/7",
+      "AC"
     ],
     "images": [
       {
@@ -1272,12 +1286,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Villa"
   },
   {
     "id": "12",
     "title": "Budget 1 BHK Near College",
-    "price": 9500,
+    "price": 65235792,
     "location": "Kothrud, Pune",
     "bhk": 1,
     "type": "rent",
@@ -1287,7 +1302,8 @@
     "amenities": [
       "Security",
       "Lift",
-      "Water 24/7"
+      "Water 24/7",
+      "Intercom"
     ],
     "images": [
       {
@@ -1384,12 +1400,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Villa"
   },
   {
     "id": "13",
     "title": "Modern 2 BHK Indiranagar",
-    "price": 25000,
+    "price": 4899943,
     "location": "Indiranagar, Bangalore",
     "bhk": 2,
     "type": "rent",
@@ -1497,12 +1514,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Apartment"
   },
   {
     "id": "14",
     "title": "Luxury 4 BHK Villa Boisar",
-    "price": 50000000,
+    "price": 2998466,
     "location": "Boisar, Mumbai",
     "bhk": 4,
     "type": "buy",
@@ -1611,12 +1629,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Apartment"
   },
   {
     "id": "15",
     "title": "Premium 3 BHK Sector 18 Noida",
-    "price": 8500000,
+    "price": 4134277,
     "location": "Sector 18, Noida",
     "bhk": 3,
     "type": "buy",
@@ -1725,12 +1744,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Apartment"
   },
   {
     "id": "16",
     "title": "Studio Chandigarh Downtown",
-    "price": 18000,
+    "price": 9453902,
     "location": "Chandigarh",
     "bhk": 1,
     "type": "rent",
@@ -1838,12 +1858,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Apartment"
   },
   {
     "id": "17",
     "title": "Luxury 3 BHK Koramangala",
-    "price": 32000,
+    "price": 5372336,
     "location": "Koramangala, Bangalore",
     "bhk": 3,
     "type": "rent",
@@ -1952,12 +1973,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Apartment"
   },
   {
     "id": "18",
     "title": "Heritage 3 BHK Fort Mumbai",
-    "price": 75000000,
+    "price": 8031317,
     "location": "Fort, Mumbai",
     "bhk": 3,
     "type": "buy",
@@ -2064,12 +2086,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Apartment"
   },
   {
     "id": "19",
     "title": "Beach-Adjacent 2 BHK Mahim",
-    "price": 55000,
+    "price": 13976549,
     "location": "Mahim, Mumbai",
     "bhk": 2,
     "type": "rent",
@@ -2176,12 +2199,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Apartment"
   },
   {
     "id": "20",
     "title": "Heritage 2 BHK Salt Lake",
-    "price": 28000,
+    "price": 14611312,
     "location": "Salt Lake, Kolkata",
     "bhk": 2,
     "type": "rent",
@@ -2288,12 +2312,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Apartment"
   },
   {
     "id": "21",
     "title": "Luxury 1 BHK Penthouse",
-    "price": 5000000,
+    "price": 10609376,
     "location": "Juhu, Mumbai",
     "bhk": 1,
     "type": "buy",
@@ -2304,7 +2329,9 @@
       "Private Terrace",
       "Plunge Pool",
       "Smart Home",
-      "Gym"
+      "Gym",
+      "Balcony",
+      "Lift"
     ],
     "images": [
       {
@@ -2401,12 +2428,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Apartment"
   },
   {
     "id": "22",
     "title": "Affordable 1 BHK Dwarka",
-    "price": 15000,
+    "price": 25296187,
     "location": "Dwarka, New Delhi",
     "bhk": 1,
     "type": "rent",
@@ -2416,7 +2444,8 @@
     "amenities": [
       "Security",
       "Lift",
-      "Water 24/7"
+      "Water 24/7",
+      "Power Backup"
     ],
     "images": [
       {
@@ -2513,12 +2542,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Apartment"
   },
   {
     "id": "23",
     "title": "Modern 3 BHK Kondapur",
-    "price": 11000000,
+    "price": 98194999,
     "location": "Kondapur, Hyderabad",
     "bhk": 3,
     "type": "buy",
@@ -2626,12 +2656,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Apartment"
   },
   {
     "id": "24",
     "title": "Riverside 2 BHK Powai",
-    "price": 52000,
+    "price": 20795517,
     "location": "Powai, Mumbai",
     "bhk": 2,
     "type": "rent",
@@ -2739,12 +2770,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Apartment"
   },
   {
     "id": "25",
     "title": "New 1 BHK IT Hub Bangalore",
-    "price": 20000,
+    "price": 4598596,
     "location": "Bangalore",
     "bhk": 1,
     "type": "rent",
@@ -2852,12 +2884,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "House"
   },
   {
     "id": "26",
     "title": "Budget 2 BHK Satellite",
-    "price": 28000,
+    "price": 2340691,
     "location": "Satellite, Ahmedabad",
     "bhk": 2,
     "type": "rent",
@@ -2965,12 +2998,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "House"
   },
   {
     "id": "27",
     "title": "Spacious 3 BHK Greater Kailash",
-    "price": 38000,
+    "price": 2242065,
     "location": "Greater Kailash, New Delhi",
     "bhk": 3,
     "type": "rent",
@@ -3079,12 +3113,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "House"
   },
   {
     "id": "28",
     "title": "Elegant 4 BHK Bungalow Puna",
-    "price": 18500000,
+    "price": 5337135,
     "location": "Pune",
     "bhk": 4,
     "type": "buy",
@@ -3192,12 +3227,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "House"
   },
   {
     "id": "29",
     "title": "Modern 2 BHK CVR Towers",
-    "price": 19000000,
+    "price": 7173153,
     "location": "Telangana",
     "bhk": 2,
     "type": "buy",
@@ -3305,12 +3341,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "House"
   },
   {
     "id": "30",
     "title": "Cozy Studio Nehru Place",
-    "price": 14000,
+    "price": 9616652,
     "location": "Nehru Place, New Delhi",
     "bhk": 1,
     "type": "rent",
@@ -3418,12 +3455,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "House"
   },
   {
     "id": "31",
     "title": "Affordable 1 BHK Anna Nagar",
-    "price": 12500,
+    "price": 14438292,
     "location": "Anna Nagar, Chennai",
     "bhk": 1,
     "type": "rent",
@@ -3433,7 +3471,8 @@
     "amenities": [
       "Water 24/7",
       "Security",
-      "Lift"
+      "Lift",
+      "Concierge"
     ],
     "images": [
       {
@@ -3530,12 +3569,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "House"
   },
   {
     "id": "32",
     "title": "Premium 2 BHK Baner",
-    "price": 30000,
+    "price": 10236529,
     "location": "Baner, Pune",
     "bhk": 2,
     "type": "rent",
@@ -3643,12 +3683,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "House"
   },
   {
     "id": "33",
     "title": "Sea View 2 BHK Calangute",
-    "price": 24000,
+    "price": 10673148,
     "location": "Calangute, Goa",
     "bhk": 2,
     "type": "rent",
@@ -3658,7 +3699,8 @@
     "amenities": [
       "Furnished",
       "Parking",
-      "Water 24/7"
+      "Water 24/7",
+      "AC"
     ],
     "images": [
       {
@@ -3755,12 +3797,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "House"
   },
   {
     "id": "34",
     "title": "Modern 1 BHK HSR Layout",
-    "price": 18000,
+    "price": 54605508,
     "location": "HSR Layout, Bangalore",
     "bhk": 1,
     "type": "rent",
@@ -3868,12 +3911,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "House"
   },
   {
     "id": "35",
     "title": "Luxury 3 BHK Golf Course Road",
-    "price": 22000000,
+    "price": 72608870,
     "location": "Golf Course Road, Gurgaon",
     "bhk": 3,
     "type": "buy",
@@ -3981,12 +4025,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "House"
   },
   {
     "id": "36",
     "title": "Studio Lodhi Road",
-    "price": 16000,
+    "price": 89984104,
     "location": "Lodhi Road, New Delhi",
     "bhk": 1,
     "type": "rent",
@@ -4094,12 +4139,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "House"
   },
   {
     "id": "37",
     "title": "Spacious 2 BHK Worli",
-    "price": 85000,
+    "price": 2464356,
     "location": "Worli, Mumbai",
     "bhk": 2,
     "type": "rent",
@@ -4207,12 +4253,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Townhouse"
   },
   {
     "id": "38",
     "title": "Budget 3 BHK Virar",
-    "price": 5000000,
+    "price": 4034332,
     "location": "Virar, Mumbai",
     "bhk": 3,
     "type": "buy",
@@ -4222,7 +4269,8 @@
     "amenities": [
       "Parking",
       "Security",
-      "Water 24/7"
+      "Water 24/7",
+      "AC"
     ],
     "images": [
       {
@@ -4319,12 +4367,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Townhouse"
   },
   {
     "id": "39",
     "title": "Upscale 2 BHK Camp",
-    "price": 35000,
+    "price": 3677748,
     "location": "Camp, Pune",
     "bhk": 2,
     "type": "rent",
@@ -4432,12 +4481,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Townhouse"
   },
   {
     "id": "40",
     "title": "Green Valley 1 BHK Trivandrum",
-    "price": 11000,
+    "price": 7246198,
     "location": "Trivandrum",
     "bhk": 1,
     "type": "rent",
@@ -4447,7 +4497,9 @@
     "amenities": [
       "Water 24/7",
       "Security",
-      "Green Area"
+      "Green Area",
+      "Lift",
+      "Clubhouse"
     ],
     "images": [
       {
@@ -4544,12 +4596,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Townhouse"
   },
   {
     "id": "41",
     "title": "Compact Studio Indore",
-    "price": 8000,
+    "price": 6490279,
     "location": "Indore",
     "bhk": 1,
     "type": "rent",
@@ -4656,12 +4709,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Townhouse"
   },
   {
     "id": "42",
     "title": "Ready 4 BHK Pune Suburbs",
-    "price": 24000000,
+    "price": 7355918,
     "location": "Pune Suburbs",
     "bhk": 4,
     "type": "buy",
@@ -4769,12 +4823,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Townhouse"
   },
   {
     "id": "43",
     "title": "Elegant 2 BHK Sector 7 Dwarka",
-    "price": 32000,
+    "price": 16514031,
     "location": "Sector 7, Dwarka, New Delhi",
     "bhk": 2,
     "type": "rent",
@@ -4882,12 +4937,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Townhouse"
   },
   {
     "id": "44",
     "title": "Luxury 3 BHK Whitefield",
-    "price": 28000000,
+    "price": 16664874,
     "location": "Whitefield, Bangalore",
     "bhk": 3,
     "type": "buy",
@@ -4995,12 +5051,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Townhouse"
   },
   {
     "id": "45",
     "title": "Sea-View 1 BHK Alibaug",
-    "price": 2500000,
+    "price": 10683610,
     "location": "Alibaug",
     "bhk": 1,
     "type": "buy",
@@ -5008,8 +5065,9 @@
     "description": "Charming 1 BHK with sea view perfect for weekend getaway.",
     "image": "https://images.pexels.com/photos/34538288/pexels-photo-34538288.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "amenities": [
-      "Parking",
-      "Water 24/7"
+      "Security",
+      "WiFi",
+      "Concierge"
     ],
     "images": [
       {
@@ -5106,12 +5164,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Townhouse"
   },
   {
     "id": "46",
     "title": "Premium 2 BHK Somajiguda",
-    "price": 26000,
+    "price": 44624596,
     "location": "Somajiguda, Hyderabad",
     "bhk": 2,
     "type": "rent",
@@ -5219,12 +5278,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Townhouse"
   },
   {
     "id": "47",
     "title": "Modern 1 BHK Gachibowli",
-    "price": 17000,
+    "price": 20877232,
     "location": "Gachibowli, Hyderabad",
     "bhk": 1,
     "type": "rent",
@@ -5331,12 +5391,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Townhouse"
   },
   {
     "id": "48",
     "title": "Spacious 3 BHK Sector 8 Dwarka",
-    "price": 35000,
+    "price": 96398971,
     "location": "Sector 8, Dwarka, New Delhi",
     "bhk": 3,
     "type": "rent",
@@ -5444,12 +5505,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Townhouse"
   },
   {
     "id": "49",
     "title": "Hilltop 2 BHK Nainital",
-    "price": 7500000,
+    "price": 4531932,
     "location": "Nainital",
     "bhk": 2,
     "type": "buy",
@@ -5459,7 +5521,8 @@
     "amenities": [
       "Garden",
       "Water 24/7",
-      "Power Backup"
+      "Power Backup",
+      "Coworking"
     ],
     "images": [
       {
@@ -5556,12 +5619,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Studio"
   },
   {
     "id": "50",
     "title": "Downtown 1 BHK Lucknow",
-    "price": 10000,
+    "price": 4419848,
     "location": "Lucknow",
     "bhk": 1,
     "type": "rent",
@@ -5571,7 +5635,8 @@
     "amenities": [
       "AC",
       "Security",
-      "Water 24/7"
+      "Water 24/7",
+      "Clubhouse"
     ],
     "images": [
       {
@@ -5668,12 +5733,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Studio"
   },
   {
     "id": "51",
     "title": "Suburban 2 BHK Surat",
-    "price": 4500000,
+    "price": 2353784,
     "location": "Surat",
     "bhk": 2,
     "type": "buy",
@@ -5683,7 +5749,8 @@
     "amenities": [
       "Parking",
       "Security",
-      "Water 24/7"
+      "Water 24/7",
+      "Water Storage"
     ],
     "images": [
       {
@@ -5780,12 +5847,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Studio"
   },
   {
     "id": "52",
     "title": "Chic Studio Bandra",
-    "price": 21000,
+    "price": 6640468,
     "location": "Bandra, Mumbai",
     "bhk": 1,
     "type": "rent",
@@ -5892,12 +5960,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Studio"
   },
   {
     "id": "53",
     "title": "Premium 4 BHK Sector 51 Gurgaon",
-    "price": 55000000,
+    "price": 5653014,
     "location": "Sector 51, Gurgaon",
     "bhk": 4,
     "type": "buy",
@@ -6005,12 +6074,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Studio"
   },
   {
     "id": "54",
     "title": "Garden 3 BHK Nashik",
-    "price": 8500000,
+    "price": 9806358,
     "location": "Nashik",
     "bhk": 3,
     "type": "buy",
@@ -6020,7 +6090,8 @@
     "amenities": [
       "Garden",
       "Parking",
-      "Water 24/7"
+      "Water 24/7",
+      "Servant Quarter"
     ],
     "images": [
       {
@@ -6117,12 +6188,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Studio"
   },
   {
     "id": "55",
     "title": "Riverside 1 BHK Varanasi",
-    "price": 2000000,
+    "price": 19102820,
     "location": "Varanasi",
     "bhk": 1,
     "type": "buy",
@@ -6130,8 +6202,11 @@
     "description": "Riverside 1 BHK property with cultural significance and views.",
     "image": "https://images.pexels.com/photos/34076456/pexels-photo-34076456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "amenities": [
-      "Water 24/7",
-      "Security"
+      "Lift",
+      "Clubhouse",
+      "Water Storage",
+      "Intercom",
+      "Power Backup"
     ],
     "images": [
       {
@@ -6228,12 +6303,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Studio"
   },
   {
     "id": "56",
     "title": "Tech-Smart 2 BHK Bangalore",
-    "price": 23000,
+    "price": 13008995,
     "location": "Bangalore",
     "bhk": 2,
     "type": "rent",
@@ -6341,12 +6417,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Studio"
   },
   {
     "id": "57",
     "title": "Cozy 1 BHK Nagpur",
-    "price": 6500,
+    "price": 15155432,
     "location": "Nagpur",
     "bhk": 1,
     "type": "rent",
@@ -6356,7 +6433,8 @@
     "amenities": [
       "AC",
       "Water 24/7",
-      "Lift"
+      "Lift",
+      "Coworking"
     ],
     "images": [
       {
@@ -6453,12 +6531,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Studio"
   },
   {
     "id": "58",
     "title": "Executive 3 BHK Jubilee Hills",
-    "price": 32000000,
+    "price": 95028804,
     "location": "Jubilee Hills, Hyderabad",
     "bhk": 3,
     "type": "buy",
@@ -6566,12 +6645,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Studio"
   },
   {
     "id": "59",
     "title": "Affordable 1 BHK Vadodara",
-    "price": 2800000,
+    "price": 78408049,
     "location": "Vadodara",
     "bhk": 1,
     "type": "buy",
@@ -6581,7 +6661,8 @@
     "amenities": [
       "Parking",
       "Security",
-      "Water 24/7"
+      "Water 24/7",
+      "AC"
     ],
     "images": [
       {
@@ -6678,12 +6759,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Studio"
   },
   {
     "id": "60",
     "title": "Luxury 2 BHK Marine Drive",
-    "price": 120000000,
+    "price": 27222637,
     "location": "Marine Drive, Mumbai",
     "bhk": 2,
     "type": "buy",
@@ -6790,12 +6872,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Studio"
   },
   {
     "id": "61",
     "title": "Modern Studio Rajouri Garden",
-    "price": 12000,
+    "price": 4436498,
     "location": "Rajouri Garden, New Delhi",
     "bhk": 1,
     "type": "rent",
@@ -6903,12 +6986,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Duplex"
   },
   {
     "id": "62",
     "title": "Green Valley 3 BHK Dehradun",
-    "price": 12000000,
+    "price": 2179821,
     "location": "Dehradun",
     "bhk": 3,
     "type": "buy",
@@ -6918,7 +7002,8 @@
     "amenities": [
       "Garden",
       "Water 24/7",
-      "Power Backup"
+      "Power Backup",
+      "Concierge"
     ],
     "images": [
       {
@@ -7015,12 +7100,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Duplex"
   },
   {
     "id": "63",
     "title": "Compact 1 BHK Raipur",
-    "price": 5500,
+    "price": 2594754,
     "location": "Raipur",
     "bhk": 1,
     "type": "rent",
@@ -7030,7 +7116,8 @@
     "amenities": [
       "AC",
       "Security",
-      "Water 24/7"
+      "Water 24/7",
+      "Concierge"
     ],
     "images": [
       {
@@ -7127,12 +7214,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Duplex"
   },
   {
     "id": "64",
     "title": "Urban 2 BHK Noida City Center",
-    "price": 11000000,
+    "price": 5265001,
     "location": "Noida City Center",
     "bhk": 2,
     "type": "buy",
@@ -7240,12 +7328,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Duplex"
   },
   {
     "id": "65",
     "title": "Heritage 1 BHK Jaipur",
-    "price": 2000000,
+    "price": 9535137,
     "location": "Jaipur",
     "bhk": 1,
     "type": "buy",
@@ -7254,7 +7343,9 @@
     "image": "https://images.pexels.com/photos/3701455/pexels-photo-3701455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "amenities": [
       "Parking",
-      "Water 24/7"
+      "Garden",
+      "WiFi",
+      "Clubhouse"
     ],
     "images": [
       {
@@ -7351,12 +7442,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Duplex"
   },
   {
     "id": "66",
     "title": "Student-Friendly 1 BHK Bhopal",
-    "price": 7000,
+    "price": 5329787,
     "location": "Bhopal",
     "bhk": 1,
     "type": "rent",
@@ -7366,7 +7458,8 @@
     "amenities": [
       "AC",
       "Security",
-      "Water 24/7"
+      "Water 24/7",
+      "Parking"
     ],
     "images": [
       {
@@ -7463,12 +7556,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Duplex"
   },
   {
     "id": "67",
     "title": "Sunset View 2 BHK Lonavala",
-    "price": 3500000,
+    "price": 17868565,
     "location": "Lonavala",
     "bhk": 2,
     "type": "buy",
@@ -7476,8 +7570,9 @@
     "description": "Sunset view 2 BHK property with scenic location.",
     "image": "https://images.pexels.com/photos/34538288/pexels-photo-34538288.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "amenities": [
-      "Water 24/7",
-      "Garden"
+      "Water Storage",
+      "AC",
+      "Furnished"
     ],
     "images": [
       {
@@ -7574,12 +7669,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Duplex"
   },
   {
     "id": "68",
     "title": "Affordable 3 BHK Lucknow",
-    "price": 6000000,
+    "price": 12813330,
     "location": "Lucknow",
     "bhk": 3,
     "type": "buy",
@@ -7589,7 +7685,8 @@
     "amenities": [
       "Parking",
       "Security",
-      "Water 24/7"
+      "Water 24/7",
+      "Clubhouse"
     ],
     "images": [
       {
@@ -7686,12 +7783,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Duplex"
   },
   {
     "id": "69",
     "title": "Smart Living 2 BHK Gurgaon",
-    "price": 31000,
+    "price": 16544166,
     "location": "Gurgaon",
     "bhk": 2,
     "type": "rent",
@@ -7799,12 +7897,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Duplex"
   },
   {
     "id": "70",
     "title": "Budget Beach 1 BHK Pondicherry",
-    "price": 1500000,
+    "price": 62499680,
     "location": "Pondicherry",
     "bhk": 1,
     "type": "buy",
@@ -7812,8 +7911,11 @@
     "description": "Budget beach property 1 BHK with proximity to sea.",
     "image": "https://images.pexels.com/photos/7546767/pexels-photo-7546767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "amenities": [
-      "Water 24/7",
-      "Parking"
+      "Servant Quarter",
+      "Water Storage",
+      "Security",
+      "Parking",
+      "Pool"
     ],
     "images": [
       {
@@ -7910,12 +8012,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Duplex"
   },
   {
     "id": "71",
     "title": "Commercial-Use 2 BHK Kochi",
-    "price": 9500000,
+    "price": 44877038,
     "location": "Kochi",
     "bhk": 2,
     "type": "buy",
@@ -8022,12 +8125,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Duplex"
   },
   {
     "id": "72",
     "title": "Hybrid 1 BHK Jalandhar",
-    "price": 13500,
+    "price": 41426941,
     "location": "Jalandhar",
     "bhk": 1,
     "type": "rent",
@@ -8134,12 +8238,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Duplex"
   },
   {
     "id": "73",
     "title": "Royal 3 BHK Indore",
-    "price": 15000000,
+    "price": 4972485,
     "location": "Indore",
     "bhk": 3,
     "type": "buy",
@@ -8247,12 +8352,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Villa"
   },
   {
     "id": "74",
     "title": "Eco-Friendly 2 BHK Nashik",
-    "price": 8000000,
+    "price": 4110587,
     "location": "Nashik",
     "bhk": 2,
     "type": "buy",
@@ -8262,7 +8368,9 @@
     "amenities": [
       "Solar Power",
       "Rainwater Harvesting",
-      "Garden"
+      "Garden",
+      "Lift",
+      "Clubhouse"
     ],
     "images": [
       {
@@ -8359,12 +8467,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Apartment"
   },
   {
     "id": "75",
     "title": "Tech Hub 1 BHK Mohali",
-    "price": 14000,
+    "price": 2324843,
     "location": "Mohali",
     "bhk": 1,
     "type": "rent",
@@ -8471,12 +8580,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "House"
   },
   {
     "id": "76",
     "title": "Riverside 4 BHK Belgaum",
-    "price": 16000000,
+    "price": 4490050,
     "location": "Belgaum",
     "bhk": 4,
     "type": "buy",
@@ -8486,7 +8596,8 @@
     "amenities": [
       "Garden",
       "Parking",
-      "Water 24/7"
+      "Water 24/7",
+      "AC"
     ],
     "images": [
       {
@@ -8583,12 +8694,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Townhouse"
   },
   {
     "id": "77",
     "title": "Affordable Studio Amritsar",
-    "price": 9000,
+    "price": 3742637,
     "location": "Amritsar",
     "bhk": 1,
     "type": "rent",
@@ -8695,12 +8807,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Studio"
   },
   {
     "id": "78",
     "title": "Premium 3 BHK Visakhapatnam",
-    "price": 25000000,
+    "price": 3982750,
     "location": "Visakhapatnam",
     "bhk": 3,
     "type": "buy",
@@ -8808,12 +8921,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Duplex"
   },
   {
     "id": "79",
     "title": "Compact 2 BHK Ranchi",
-    "price": 4200000,
+    "price": 5125060,
     "location": "Ranchi",
     "bhk": 2,
     "type": "buy",
@@ -8823,7 +8937,8 @@
     "amenities": [
       "Parking",
       "Security",
-      "Water 24/7"
+      "Water 24/7",
+      "Club House"
     ],
     "images": [
       {
@@ -8920,12 +9035,13 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Villa"
   },
   {
     "id": "80",
     "title": "Extended 3 BHK Mysore",
-    "price": 7500000,
+    "price": 8219999,
     "location": "Mysore",
     "bhk": 3,
     "type": "buy",
@@ -8935,7 +9051,8 @@
     "amenities": [
       "Garden",
       "Parking",
-      "Water 24/7"
+      "Water 24/7",
+      "Security"
     ],
     "images": [
       {
@@ -9032,6 +9149,7 @@
           "Cancellation after 60 days: No refund"
         ]
       }
-    ]
+    ],
+    "propertyCategory": "Apartment"
   }
 ]

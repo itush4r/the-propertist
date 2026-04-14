@@ -19,7 +19,7 @@ export default function SearchBar({ value, onChange }: SearchBarProps) {
       </svg>
       <input
         type="text"
-        placeholder="Search by city or locality..."
+        placeholder="Search by city, locality, or property type..."
         value={value}
         onChange={(e) => onChange(e.target.value)}
         className="w-full pl-10 pr-4 py-3 rounded-xl border border-stone-200 bg-white text-stone-900 placeholder-stone-400 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400 focus:border-transparent transition-all"

@@ -17,6 +17,14 @@ interface FormData {
   time: string;
 }
 
+interface FormErrors {
+  name: string;
+  email: string;
+  phone: string;
+  date: string;
+  time: string;
+}
+
 export default function ScheduleTourModal({ isOpen, onClose, propertyTitle }: ScheduleTourModalProps) {
   const [formData, setFormData] = useState<FormData>({
     name: '',
@@ -27,12 +35,70 @@ export default function ScheduleTourModal({ isOpen, onClose, propertyTitle }: Sc
   });
   const [showSuccess, setShowSuccess] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
-  const [emailError, setEmailError] = useState('');
+  const [errors, setErrors] = useState<FormErrors>({
+    name: '',
+    email: '',
+    phone: '',
+    date: '',
+    time: '',
+  });
 
   // Email validation regex
-  const validateEmail = (email: string): boolean => {
+  const validateEmail = (email: string): string => {
+    if (!email.trim()) return '';
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    return emailRegex.test(email);
+    return emailRegex.test(email) ? '' : 'Please enter a valid email address';
+  };
+
+  // Name validation - 3+ letters, spaces only after 3+ letters
+  const validateName = (name: string): string => {
+    if (!name.trim()) return '';
+
+    // Only allow letters and spaces
+    if (!/^[a-zA-Z\s]*$/.test(name)) {
+      return 'Only letters and spaces are allowed';
+    }
+
+    // Get only alphabetic characters (remove spaces)
+    const lettersOnly = name.replace(/\s/g, '');
+
+    // Must have at least 3 letters
+    if (lettersOnly.length < 3) {
+      return 'At least 3 letters required';
+    }
+
+    // Space can only appear after 3+ letters
+    const firstSpaceIndex = name.indexOf(' ');
+    if (firstSpaceIndex !== -1 && firstSpaceIndex < 3) {
+      return 'Space only allowed after 3 letters';
+    }
+
+    return '';
+  };
+
+  // Phone validation - 10 digits OR +91 + 10 digits (13 chars total)
+  const validatePhone = (phone: string): string => {
+    if (!phone.trim()) return '';
+
+    const digitsOnly = phone.replace(/\D/g, '');
+    const hasCountryCode = phone.startsWith('+91');
+
+    // Valid if 10 digits (without country code)
+    if (digitsOnly.length === 10 && !hasCountryCode) {
+      return '';
+    }
+
+    // Valid if +91 followed by 10 digits (13 chars total)
+    if (hasCountryCode && digitsOnly.length === 12 && phone.length === 13) {
+      return '';
+    }
+
+    // Invalid format
+    if (hasCountryCode) {
+      return 'Phone with country code should be +91 followed by 10 digits (13 characters total)';
+    } else {
+      return 'Phone number should be 10 digits';
+    }
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -42,49 +108,39 @@ export default function ScheduleTourModal({ isOpen, onClose, propertyTitle }: Sc
       [name]: value
     }));
 
-    // Validate email on change
-    if (name === 'email') {
-      if (value.trim() === '') {
-        setEmailError('');
-      } else if (!validateEmail(value)) {
-        setEmailError('Please enter a valid email address');
-      } else {
-        setEmailError('');
-      }
+    // Validate on change
+    let error = '';
+    if (name === 'name') {
+      error = validateName(value);
+    } else if (name === 'email') {
+      error = validateEmail(value);
+    } else if (name === 'phone') {
+      error = validatePhone(value);
     }
+
+    setErrors(prev => ({
+      ...prev,
+      [name]: error
+    }));
   };
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
 
     // Validate all fields
-    if (!formData.name.trim()) {
-      alert('Please enter your name');
-      return;
-    }
+    const newErrors: FormErrors = {
+      name: !formData.name.trim() ? 'Name is required' : validateName(formData.name),
+      email: !formData.email.trim() ? 'Email is required' : validateEmail(formData.email),
+      phone: !formData.phone.trim() ? 'Phone number is required' : validatePhone(formData.phone),
+      date: !formData.date ? 'Date is required' : '',
+      time: !formData.time ? 'Time is required' : '',
+    };
 
-    if (!formData.email.trim()) {
-      setEmailError('Email is required');
-      return;
-    }
+    setErrors(newErrors);
 
-    if (!validateEmail(formData.email)) {
-      setEmailError('Please enter a valid email address');
-      return;
-    }
-
-    if (!formData.phone.trim()) {
-      alert('Please enter your phone number');
-      return;
-    }
-
-    if (!formData.date) {
-      alert('Please select a date');
-      return;
-    }
-
-    if (!formData.time) {
-      alert('Please select a time');
+    // Check if there are any errors
+    const hasErrors = Object.values(newErrors).some(error => error !== '');
+    if (hasErrors) {
       return;
     }
 
@@ -104,7 +160,13 @@ export default function ScheduleTourModal({ isOpen, onClose, propertyTitle }: Sc
       date: '',
       time: '',
     });
-    setEmailError('');
+    setErrors({
+      name: '',
+      email: '',
+      phone: '',
+      date: '',
+      time: '',
+    });
 
     // Close modal after 2 seconds
     setTimeout(() => {
@@ -159,8 +221,20 @@ export default function ScheduleTourModal({ isOpen, onClose, propertyTitle }: Sc
                 onChange={handleChange}
                 placeholder="John Doe"
                 required
-                className="w-full px-4 py-3 border border-stone-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-amber-500 focus:border-transparent transition-all"
+                className={`w-full px-4 py-3 border rounded-xl focus:outline-none focus:ring-2 transition-all ${
+                  errors.name
+                    ? 'border-red-300 focus:ring-red-400'
+                    : 'border-stone-200 focus:ring-amber-500 focus:border-transparent'
+                }`}
               />
+              {errors.name && (
+                <p className="mt-2 text-sm text-red-600 flex items-center gap-1">
+                  <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
+                  </svg>
+                  {errors.name}
+                </p>
+              )}
             </div>
 
             {/* Email */}
@@ -177,17 +251,17 @@ export default function ScheduleTourModal({ isOpen, onClose, propertyTitle }: Sc
                 placeholder="john@example.com"
                 required
                 className={`w-full px-4 py-3 border rounded-xl focus:outline-none focus:ring-2 transition-all ${
-                  emailError
-                    ? 'border-red-500 focus:ring-red-500 focus:border-transparent'
+                  errors.email
+                    ? 'border-red-300 focus:ring-red-400'
                     : 'border-stone-200 focus:ring-amber-500 focus:border-transparent'
                 }`}
               />
-              {emailError && (
-                <p className="text-red-500 text-xs font-medium mt-2 flex items-center gap-1">
-                  <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                    <path strokeLinecap="round" strokeLinejoin="round" d="M12 8v4m0 4v.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+              {errors.email && (
+                <p className="mt-2 text-sm text-red-600 flex items-center gap-1">
+                  <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
                   </svg>
-                  {emailError}
+                  {errors.email}
                 </p>
               )}
             </div>
@@ -205,8 +279,20 @@ export default function ScheduleTourModal({ isOpen, onClose, propertyTitle }: Sc
                 onChange={handleChange}
                 placeholder="+91 98765 43210"
                 required
-                className="w-full px-4 py-3 border border-stone-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-amber-500 focus:border-transparent transition-all"
+                className={`w-full px-4 py-3 border rounded-xl focus:outline-none focus:ring-2 transition-all ${
+                  errors.phone
+                    ? 'border-red-300 focus:ring-red-400'
+                    : 'border-stone-200 focus:ring-amber-500 focus:border-transparent'
+                }`}
               />
+              {errors.phone && (
+                <p className="mt-2 text-sm text-red-600 flex items-center gap-1">
+                  <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
+                  </svg>
+                  {errors.phone}
+                </p>
+              )}
             </div>
 
             {/* Date & Time Row */}
@@ -223,8 +309,20 @@ export default function ScheduleTourModal({ isOpen, onClose, propertyTitle }: Sc
                   value={formData.date}
                   onChange={handleChange}
                   required
-                  className="w-full px-4 py-3 border border-stone-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-amber-500 focus:border-transparent transition-all"
+                  className={`w-full px-4 py-3 border rounded-xl focus:outline-none focus:ring-2 transition-all ${
+                    errors.date
+                      ? 'border-red-300 focus:ring-red-400'
+                      : 'border-stone-200 focus:ring-amber-500 focus:border-transparent'
+                  }`}
                 />
+                {errors.date && (
+                  <p className="mt-2 text-xs text-red-600 flex items-center gap-1">
+                    <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
+                      <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
+                    </svg>
+                    {errors.date}
+                  </p>
+                )}
               </div>
 
               {/* Time */}
@@ -239,29 +337,28 @@ export default function ScheduleTourModal({ isOpen, onClose, propertyTitle }: Sc
                   value={formData.time}
                   onChange={handleChange}
                   required
-                  className="w-full px-4 py-3 border border-stone-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-amber-500 focus:border-transparent transition-all"
+                  className={`w-full px-4 py-3 border rounded-xl focus:outline-none focus:ring-2 transition-all ${
+                    errors.time
+                      ? 'border-red-300 focus:ring-red-400'
+                      : 'border-stone-200 focus:ring-amber-500 focus:border-transparent'
+                  }`}
                 />
+                {errors.time && (
+                  <p className="mt-2 text-xs text-red-600 flex items-center gap-1">
+                    <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
+                      <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
+                    </svg>
+                    {errors.time}
+                  </p>
+                )}
               </div>
             </div>
 
             {/* Submit Button */}
             <button
               type="submit"
-              disabled={isSubmitting || !!emailError}
-              className="w-full text-white font-bold py-3 px-6 rounded-xl transition-colors mt-6 flex items-center justify-center gap-2 disabled:cursor-not-allowed"
-              style={{
-                backgroundColor: isSubmitting || emailError ? '#d4af37' : '#f59e0b',
-              }}
-              onMouseEnter={(e) => {
-                if (!isSubmitting && !emailError) {
-                  e.currentTarget.style.backgroundColor = '#d97706';
-                }
-              }}
-              onMouseLeave={(e) => {
-                if (!isSubmitting && !emailError) {
-                  e.currentTarget.style.backgroundColor = '#f59e0b';
-                }
-              }}
+              disabled={isSubmitting || Object.values(errors).some(err => err !== '')}
+              className="w-full bg-amber-500 hover:bg-amber-600 disabled:bg-stone-300 disabled:cursor-not-allowed text-white font-bold py-3 px-6 rounded-xl transition-colors mt-6 flex items-center justify-center gap-2"
             >
               {isSubmitting ? (
                 <>
@@ -270,13 +367,6 @@ export default function ScheduleTourModal({ isOpen, onClose, propertyTitle }: Sc
                     <path d="M12 2a10 10 0 0 1 10 10" strokeWidth={2} strokeDasharray="15.7" />
                   </svg>
                   Scheduling...
-                </>
-              ) : emailError ? (
-                <>
-                  <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                    <path strokeLinecap="round" strokeLinejoin="round" d="M12 8v4m0 4v.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-                  </svg>
-                  Fix Errors
                 </>
               ) : (
                 'Schedule Tour'

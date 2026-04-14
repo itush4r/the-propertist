@@ -35,6 +35,7 @@ export interface Property {
   description: string;
   image: string;
   amenities: string[];
+  propertyCategory: string;
   // Optional rich fields for enhanced detail page
   images?: PropertyImage[];
   descriptions?: string[];
@@ -46,3 +47,6 @@ export interface Property {
 
 export type PropertyType = 'buy' | 'rent';
 export type BHKFilter = 1 | 2 | 3 | 4 | 'all';
+export type PropertyCategory = 'Villa' | 'Apartment' | 'House' | 'Townhouse' | 'Studio' | 'Duplex' | 'all';
+export type PriceRange = 'all' | '0-50L' | '50L-1Cr' | '1Cr-2Cr' | '2Cr+';
+export type AmenityFilter = string | 'all';
