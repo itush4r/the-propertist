@@ -136,7 +136,8 @@ function PropertyCardComponent({ property, priority = false }: PropertyCardProps
                         className="object-cover group-hover:scale-105 transition-transform duration-200"
                         sizes="(max-width: 640px) calc(100vw - 32px), (max-width: 1024px) calc(50vw - 20px), calc(33vw - 16px)"
                         priority={priority && idx === 0}
-                        quality={80}
+                        fetchPriority={idx === 0 ? 'high' : 'auto'}
+                        quality={75}
                         onError={() => handleImageError(idx)}
                       />
                     )}
@@ -201,7 +202,8 @@ function PropertyCardComponent({ property, priority = false }: PropertyCardProps
                 className="object-cover group-hover:scale-105 transition-transform duration-200"
                 sizes="(max-width: 640px) calc(100vw - 32px), (max-width: 1024px) calc(50vw - 20px), calc(33vw - 16px)"
                 priority={priority}
-                quality={80}
+                fetchPriority={priority ? 'high' : 'auto'}
+                quality={75}
               />
               <div className="absolute top-3 right-3">
                 <span className="bg-white/90 backdrop-blur-sm text-stone-700 text-xs font-medium px-2.5 py-1 rounded-full">
